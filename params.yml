@@ -1,0 +1,54 @@
+# Copyright (c) 2019, SCALE Lab, Brown University
+# All rights reserved.
+
+# This source code is licensed under the BSD-style license found in the
+# LICENSE file in the root directory of this source tree. 
+
+# ======================================================================
+# This file holds parameters for running a DRiLLS agent for training and
+# inference. It sets up the RL environment along with the logic synthesis
+# environment to train the RL agent. 
+
+# change this to the abc binary path if the command is not recognized system-wide
+abc_binary: /Users/evan/Documents/Drills/abc/abc
+yosys_binary: /Users/evan/Documents/yosys/yosys
+sta_binary: /Users/evan/Documents/Drills/OpenSTA/app/sta
+
+# path of the design file in one of the accepted formats by ABC
+design_file: /Users/evan/Documents/Drills/adder_file/adder_aig.v
+
+# standard cell library mapping
+mapping:
+  clock_period: 850   # in pico seconds
+  library_file: /Users/evan/Documents/Drills/adder_file/tech.lib
+
+# FPGA mapping - exlusive with the above
+fpga_mapping:
+  levels: 100
+  lut_inputs: 6
+
+# add more optimization to the toolbox
+optimizations:
+  - rewrite
+  - rewrite -z
+  - refactor
+  - refactor -z
+  - refactor -M 0
+  - refactor -N 15
+  - refactor -N 4
+  - refactor -N 12 M 0
+  - resub
+  - resub -z
+  - resub -K 12
+  - resub -N 3
+  - resub -M 0
+  - balance
+  - balance -s -d
+
+# the directory to hold the playground an agent uses to practice
+playground_dir: playground
+
+# agent training parameters
+episodes: 50
+iterations: 50
+model_dir: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt   # must be absolute path

@@ -1,0 +1,9 @@
+read_lib read_liberty /Users/evan/Documents/Drills/adder_file/test.lib
+read_lib /Users/evan/Documents/Drills/adder_file/test.lib
+read_verilog /Users/evan/Documents/Drills/adder_file/adder_aig.v
+strash
+upsize
+write test_mapped.v
+topo
+stime
+source -s abc.rc

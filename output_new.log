@@ -1,0 +1,5209 @@
+    ____  ____  _ __    __   _____
+   / __ \/ __ \(_) /   / /  / ___/
+  / / / / /_/ / / /   / /   \__ \ 
+ / /_/ / _, _/ / /___/ /______/ / 
+/_____/_/ |_/_/_____/_____/____/  
+                                  
+
+[DRiLLS 2024-07-17 12:22:52] Starting to train the agent ..
+[DRiLLS 2024-07-17 12:22:52] Episode: 1
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 12:23:30] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 12:24:08] Iteration: 2
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 12:24:46] Iteration: 3
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 12:25:24] Iteration: 4
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 12:26:01] Iteration: 5
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 12:26:38] Iteration: 6
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 12:27:16] Iteration: 7
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:27:53] Iteration: 8
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:28:32] Iteration: 9
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:29:10] Iteration: 10
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:29:47] Iteration: 11
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:30:25] Iteration: 12
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:31:05] Iteration: 13
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:31:46] Iteration: 14
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:32:23] Iteration: 15
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:33:01] Iteration: 16
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:33:39] Iteration: 17
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:34:17] Iteration: 18
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:34:54] Iteration: 19
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:35:32] Iteration: 20
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:36:09] Iteration: 21
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:36:47] Iteration: 22
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:37:24] Iteration: 23
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:38:01] Iteration: 24
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:38:39] Iteration: 25
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:39:16] Iteration: 26
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:39:54] Iteration: 27
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:40:32] Iteration: 28
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:41:09] Iteration: 29
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:41:47] Iteration: 30
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:42:24] Iteration: 31
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:43:02] Iteration: 32
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:43:40] Iteration: 33
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:44:17] Iteration: 34
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:44:55] Iteration: 35
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:45:32] Iteration: 36
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:46:10] Iteration: 37
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:46:48] Iteration: 38
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:47:25] Iteration: 39
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 12:48:03] Iteration: 40
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:48:40] Iteration: 41
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:49:18] Iteration: 42
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:49:56] Iteration: 43
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:50:34] Iteration: 44
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:51:12] Iteration: 45
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:51:50] Iteration: 46
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 12:52:27] Iteration: 47
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-17 12:53:04] Iteration: 48
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-17 12:53:42] Iteration: 49
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-17 12:54:19] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 12:54:19] Episode: 0 - done with total reward = -0.008440118
+[DRiLLS 2024-07-17 12:54:19] Episode 0 Run Time ~ -31.44629759788513 minutes.
+
+[DRiLLS 2024-07-17 12:54:19] Episode: 2
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 12:54:56] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-17 12:55:33] Iteration: 2
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 12:56:10] Iteration: 3
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 12:56:47] Iteration: 4
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 12:57:24] Iteration: 5
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 12:58:01] Iteration: 6
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 12:58:38] Iteration: 7
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 12:59:15] Iteration: 8
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 12:59:52] Iteration: 9
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 13:00:28] Iteration: 10
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 13:01:05] Iteration: 11
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-17 13:01:42] Iteration: 12
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 13:02:19] Iteration: 13
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 13:02:56] Iteration: 14
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 13:03:33] Iteration: 15
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:04:10] Iteration: 16
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:04:47] Iteration: 17
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:05:24] Iteration: 18
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:06:01] Iteration: 19
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:06:38] Iteration: 20
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:07:15] Iteration: 21
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:07:52] Iteration: 22
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:08:28] Iteration: 23
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:09:05] Iteration: 24
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:09:42] Iteration: 25
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:10:19] Iteration: 26
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:10:56] Iteration: 27
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:11:33] Iteration: 28
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:12:10] Iteration: 29
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:12:47] Iteration: 30
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:13:24] Iteration: 31
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:14:01] Iteration: 32
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:14:39] Iteration: 33
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:15:16] Iteration: 34
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:15:53] Iteration: 35
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:16:30] Iteration: 36
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:17:07] Iteration: 37
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:17:44] Iteration: 38
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:18:21] Iteration: 39
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:18:58] Iteration: 40
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 13:19:35] Iteration: 41
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 13:20:12] Iteration: 42
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 13:20:48] Iteration: 43
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 13:21:25] Iteration: 44
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 13:22:02] Iteration: 45
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 13:22:39] Iteration: 46
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 13:23:16] Iteration: 47
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 13:23:54] Iteration: 48
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 13:24:31] Iteration: 49
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 13:25:08] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 13:25:08] Episode: 1 - done with total reward = -0.03856262
+[DRiLLS 2024-07-17 13:25:08] Episode 1 Run Time ~ -30.82131101290385 minutes.
+
+[DRiLLS 2024-07-17 13:25:08] Episode: 3
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 13:25:45] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-17 13:26:22] Iteration: 2
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:26:59] Iteration: 3
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:27:36] Iteration: 4
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 13:28:12] Iteration: 5
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:28:49] Iteration: 6
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:29:26] Iteration: 7
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:30:03] Iteration: 8
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:30:40] Iteration: 9
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:31:17] Iteration: 10
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 13:31:54] Iteration: 11
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 13:32:31] Iteration: 12
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 13:33:08] Iteration: 13
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 13:33:45] Iteration: 14
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 13:34:21] Iteration: 15
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 13:34:58] Iteration: 16
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:35:35] Iteration: 17
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:36:12] Iteration: 18
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:36:49] Iteration: 19
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-17 13:37:27] Iteration: 20
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 13:38:04] Iteration: 21
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:38:41] Iteration: 22
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 13:39:18] Iteration: 23
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 13:39:55] Iteration: 24
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 13:40:32] Iteration: 25
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:41:08] Iteration: 26
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:41:45] Iteration: 27
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:42:22] Iteration: 28
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:42:59] Iteration: 29
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:43:36] Iteration: 30
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:44:13] Iteration: 31
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:44:50] Iteration: 32
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 13:45:27] Iteration: 33
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:46:04] Iteration: 34
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:46:41] Iteration: 35
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:47:18] Iteration: 36
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:47:54] Iteration: 37
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:48:31] Iteration: 38
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:49:08] Iteration: 39
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 13:49:45] Iteration: 40
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 13:50:22] Iteration: 41
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 13:50:59] Iteration: 42
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 13:51:36] Iteration: 43
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 13:52:13] Iteration: 44
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 13:52:50] Iteration: 45
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 13:53:27] Iteration: 46
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 13:54:03] Iteration: 47
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-17 13:54:42] Iteration: 48
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-17 13:55:20] Iteration: 49
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 13:55:58] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 13:55:58] Episode: 2 - done with total reward = -0.17268288
+[DRiLLS 2024-07-17 13:55:58] Episode 2 Run Time ~ -30.824864665667217 minutes.
+
+[DRiLLS 2024-07-17 13:55:58] Episode: 4
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 13:56:35] Iteration: 1
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 13:57:12] Iteration: 2
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 13:57:49] Iteration: 3
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-17 13:58:26] Iteration: 4
+Extracted power: 4.29e-06
+[DRiLLS 2024-07-17 13:59:04] Iteration: 5
+Extracted power: 4.29e-06
+[DRiLLS 2024-07-17 13:59:41] Iteration: 6
+Extracted power: 4.29e-06
+[DRiLLS 2024-07-17 14:00:18] Iteration: 7
+Extracted power: 4.29e-06
+[DRiLLS 2024-07-17 14:00:55] Iteration: 8
+Extracted power: 4.29e-06
+[DRiLLS 2024-07-17 14:01:33] Iteration: 9
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-17 14:02:10] Iteration: 10
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-17 14:02:47] Iteration: 11
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 14:03:23] Iteration: 12
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 14:04:00] Iteration: 13
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 14:04:37] Iteration: 14
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 14:05:14] Iteration: 15
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 14:05:51] Iteration: 16
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-17 14:06:28] Iteration: 17
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 14:07:06] Iteration: 18
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 14:07:43] Iteration: 19
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 14:08:20] Iteration: 20
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 14:08:56] Iteration: 21
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:09:33] Iteration: 22
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:10:10] Iteration: 23
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:10:47] Iteration: 24
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-17 14:11:24] Iteration: 25
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-17 14:12:01] Iteration: 26
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 14:12:37] Iteration: 27
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 14:13:14] Iteration: 28
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 14:13:51] Iteration: 29
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:14:28] Iteration: 30
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:15:06] Iteration: 31
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:15:43] Iteration: 32
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:16:20] Iteration: 33
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:16:58] Iteration: 34
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:17:34] Iteration: 35
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:18:11] Iteration: 36
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:18:48] Iteration: 37
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:19:25] Iteration: 38
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:20:02] Iteration: 39
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:20:39] Iteration: 40
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:21:15] Iteration: 41
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-17 14:21:52] Iteration: 42
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-17 14:22:29] Iteration: 43
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-17 14:23:06] Iteration: 44
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:23:43] Iteration: 45
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:24:20] Iteration: 46
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:24:57] Iteration: 47
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:25:33] Iteration: 48
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:26:11] Iteration: 49
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 14:26:48] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 14:26:48] Episode: 3 - done with total reward = -0.14827296
+[DRiLLS 2024-07-17 14:26:48] Episode 3 Run Time ~ -30.83404452006022 minutes.
+
+[DRiLLS 2024-07-17 14:26:48] Episode: 5
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 14:27:25] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 14:28:01] Iteration: 2
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 14:28:38] Iteration: 3
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 14:29:15] Iteration: 4
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 14:29:52] Iteration: 5
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 14:30:29] Iteration: 6
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 14:31:06] Iteration: 7
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 14:31:43] Iteration: 8
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 14:32:20] Iteration: 9
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:32:56] Iteration: 10
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:33:33] Iteration: 11
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:34:10] Iteration: 12
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:34:47] Iteration: 13
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:35:24] Iteration: 14
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:36:01] Iteration: 15
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:36:38] Iteration: 16
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:37:15] Iteration: 17
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:37:52] Iteration: 18
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:38:29] Iteration: 19
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:39:06] Iteration: 20
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:39:43] Iteration: 21
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 14:40:20] Iteration: 22
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-17 14:40:57] Iteration: 23
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-17 14:41:34] Iteration: 24
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-17 14:42:11] Iteration: 25
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 14:42:48] Iteration: 26
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-17 14:43:25] Iteration: 27
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 14:44:02] Iteration: 28
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-17 14:44:40] Iteration: 29
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-17 14:45:17] Iteration: 30
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-17 14:45:54] Iteration: 31
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-17 14:46:32] Iteration: 32
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-17 14:47:10] Iteration: 33
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:47:47] Iteration: 34
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:48:23] Iteration: 35
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:49:01] Iteration: 36
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:49:37] Iteration: 37
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:50:14] Iteration: 38
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 14:50:51] Iteration: 39
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 14:51:28] Iteration: 40
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 14:52:07] Iteration: 41
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 14:52:45] Iteration: 42
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 14:53:22] Iteration: 43
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 14:54:00] Iteration: 44
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 14:54:38] Iteration: 45
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 14:55:15] Iteration: 46
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 14:55:52] Iteration: 47
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:56:30] Iteration: 48
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 14:57:07] Iteration: 49
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-17 14:57:44] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 14:57:44] Episode: 4 - done with total reward = -0.033920374
+[DRiLLS 2024-07-17 14:57:44] Episode 4 Run Time ~ -30.93818163474401 minutes.
+
+[DRiLLS 2024-07-17 14:57:44] Episode: 6
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 14:58:21] Iteration: 1
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 14:58:58] Iteration: 2
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 14:59:35] Iteration: 3
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-17 15:00:12] Iteration: 4
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 15:00:49] Iteration: 5
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 15:01:25] Iteration: 6
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 15:02:02] Iteration: 7
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 15:02:39] Iteration: 8
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 15:03:16] Iteration: 9
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-17 15:03:53] Iteration: 10
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-17 15:04:31] Iteration: 11
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 15:05:08] Iteration: 12
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 15:05:44] Iteration: 13
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-17 15:06:21] Iteration: 14
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 15:06:59] Iteration: 15
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-17 15:07:35] Iteration: 16
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 15:08:12] Iteration: 17
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 15:08:48] Iteration: 18
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 15:09:25] Iteration: 19
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 15:10:02] Iteration: 20
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-17 15:10:39] Iteration: 21
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:11:16] Iteration: 22
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 15:11:53] Iteration: 23
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 15:12:30] Iteration: 24
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 15:13:08] Iteration: 25
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:13:45] Iteration: 26
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:14:22] Iteration: 27
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:14:59] Iteration: 28
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:15:36] Iteration: 29
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:16:13] Iteration: 30
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:16:51] Iteration: 31
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:17:28] Iteration: 32
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 15:18:05] Iteration: 33
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 15:18:42] Iteration: 34
+Extracted power: 3.84e-06
+[DRiLLS 2024-07-17 15:19:21] Iteration: 35
+Extracted power: 3.84e-06
+[DRiLLS 2024-07-17 15:19:59] Iteration: 36
+Extracted power: 3.84e-06
+[DRiLLS 2024-07-17 15:20:37] Iteration: 37
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:21:14] Iteration: 38
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 15:21:52] Iteration: 39
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 15:22:29] Iteration: 40
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 15:23:07] Iteration: 41
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-17 15:23:44] Iteration: 42
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-17 15:24:22] Iteration: 43
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 15:24:59] Iteration: 44
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 15:25:36] Iteration: 45
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 15:26:14] Iteration: 46
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 15:26:51] Iteration: 47
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 15:27:28] Iteration: 48
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 15:28:06] Iteration: 49
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 15:28:43] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 15:28:43] Episode: 5 - done with total reward = -0.033288952
+[DRiLLS 2024-07-17 15:28:43] Episode 5 Run Time ~ -30.97780491511027 minutes.
+
+[DRiLLS 2024-07-17 15:28:43] Episode: 7
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 15:29:20] Iteration: 1
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 15:29:57] Iteration: 2
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 15:30:34] Iteration: 3
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 15:31:11] Iteration: 4
+Extracted power: 3.91e-06
+[DRiLLS 2024-07-17 15:31:48] Iteration: 5
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 15:32:26] Iteration: 6
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-17 15:33:03] Iteration: 7
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 15:33:40] Iteration: 8
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 15:34:17] Iteration: 9
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-17 15:34:54] Iteration: 10
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-17 15:35:31] Iteration: 11
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 15:36:08] Iteration: 12
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 15:36:46] Iteration: 13
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 15:37:22] Iteration: 14
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 15:37:59] Iteration: 15
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 15:38:36] Iteration: 16
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 15:39:13] Iteration: 17
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 15:39:51] Iteration: 18
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 15:40:28] Iteration: 19
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 15:41:04] Iteration: 20
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 15:41:41] Iteration: 21
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 15:42:18] Iteration: 22
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 15:42:55] Iteration: 23
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 15:43:32] Iteration: 24
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 15:44:09] Iteration: 25
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:44:46] Iteration: 26
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:45:23] Iteration: 27
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:46:00] Iteration: 28
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:46:37] Iteration: 29
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:47:14] Iteration: 30
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:47:51] Iteration: 31
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:48:28] Iteration: 32
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:49:05] Iteration: 33
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:49:42] Iteration: 34
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 15:50:19] Iteration: 35
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:50:56] Iteration: 36
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:51:33] Iteration: 37
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:52:10] Iteration: 38
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:52:47] Iteration: 39
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 15:53:24] Iteration: 40
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 15:54:01] Iteration: 41
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 15:54:39] Iteration: 42
+Extracted power: 3.76e-06
+[DRiLLS 2024-07-17 15:55:19] Iteration: 43
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 15:55:57] Iteration: 44
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 15:56:35] Iteration: 45
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 15:57:14] Iteration: 46
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 15:57:54] Iteration: 47
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 15:58:37] Iteration: 48
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 15:59:18] Iteration: 49
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 15:59:57] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 15:59:57] Episode: 6 - done with total reward = -0.001017902
+[DRiLLS 2024-07-17 15:59:57] Episode 6 Run Time ~ -31.243913702170055 minutes.
+
+[DRiLLS 2024-07-17 15:59:57] Episode: 8
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 16:00:37] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:01:15] Iteration: 2
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:01:52] Iteration: 3
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:02:29] Iteration: 4
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:03:06] Iteration: 5
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:03:43] Iteration: 6
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:04:20] Iteration: 7
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:04:58] Iteration: 8
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 16:05:35] Iteration: 9
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-17 16:06:12] Iteration: 10
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:06:49] Iteration: 11
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:07:27] Iteration: 12
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:08:04] Iteration: 13
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:08:41] Iteration: 14
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:09:18] Iteration: 15
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:09:55] Iteration: 16
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 16:10:32] Iteration: 17
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 16:11:09] Iteration: 18
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 16:11:47] Iteration: 19
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 16:12:24] Iteration: 20
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 16:13:01] Iteration: 21
+Extracted power: 2.84e-06
+[DRiLLS 2024-07-17 16:13:38] Iteration: 22
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-17 16:14:15] Iteration: 23
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-17 16:14:53] Iteration: 24
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 16:15:30] Iteration: 25
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 16:16:07] Iteration: 26
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 16:16:44] Iteration: 27
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 16:17:22] Iteration: 28
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 16:18:02] Iteration: 29
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-17 16:18:40] Iteration: 30
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 16:19:17] Iteration: 31
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 16:19:55] Iteration: 32
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 16:20:32] Iteration: 33
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:21:10] Iteration: 34
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:21:47] Iteration: 35
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:22:25] Iteration: 36
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:23:02] Iteration: 37
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:23:41] Iteration: 38
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:24:18] Iteration: 39
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:24:56] Iteration: 40
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:25:33] Iteration: 41
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:26:10] Iteration: 42
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:26:48] Iteration: 43
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:27:26] Iteration: 44
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 16:28:03] Iteration: 45
+Extracted power: 3.91e-06
+[DRiLLS 2024-07-17 16:28:41] Iteration: 46
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 16:29:18] Iteration: 47
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 16:29:56] Iteration: 48
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:30:34] Iteration: 49
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:31:13] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 16:31:13] Episode: 7 - done with total reward = -0.060176775
+[DRiLLS 2024-07-17 16:31:13] Episode 7 Run Time ~ -31.257210834821066 minutes.
+
+[DRiLLS 2024-07-17 16:31:13] Episode: 9
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 16:31:50] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:32:27] Iteration: 2
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:33:05] Iteration: 3
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 16:33:42] Iteration: 4
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 16:34:19] Iteration: 5
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 16:34:57] Iteration: 6
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-17 16:35:34] Iteration: 7
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 16:36:10] Iteration: 8
+Extracted power: 2.63e-06
+[DRiLLS 2024-07-17 16:36:47] Iteration: 9
+Extracted power: 2.63e-06
+[DRiLLS 2024-07-17 16:37:24] Iteration: 10
+Extracted power: 2.63e-06
+[DRiLLS 2024-07-17 16:38:02] Iteration: 11
+Extracted power: 2.63e-06
+[DRiLLS 2024-07-17 16:38:38] Iteration: 12
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 16:39:15] Iteration: 13
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 16:39:52] Iteration: 14
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 16:40:29] Iteration: 15
+Extracted power: 2.75e-06
+[DRiLLS 2024-07-17 16:41:06] Iteration: 16
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:41:43] Iteration: 17
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:42:20] Iteration: 18
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 16:42:57] Iteration: 19
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-17 16:43:34] Iteration: 20
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 16:44:11] Iteration: 21
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 16:44:48] Iteration: 22
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 16:45:25] Iteration: 23
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 16:46:02] Iteration: 24
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:46:39] Iteration: 25
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:47:17] Iteration: 26
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:47:53] Iteration: 27
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:48:31] Iteration: 28
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 16:49:07] Iteration: 29
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 16:49:45] Iteration: 30
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 16:50:22] Iteration: 31
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 16:51:01] Iteration: 32
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 16:51:38] Iteration: 33
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 16:52:15] Iteration: 34
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-17 16:52:53] Iteration: 35
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-17 16:53:30] Iteration: 36
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-17 16:54:07] Iteration: 37
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 16:54:44] Iteration: 38
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-17 16:55:21] Iteration: 39
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-17 16:55:59] Iteration: 40
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 16:56:36] Iteration: 41
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 16:57:13] Iteration: 42
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 16:57:49] Iteration: 43
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 16:58:30] Iteration: 44
+Extracted power: 4.05e-06
+[DRiLLS 2024-07-17 16:59:07] Iteration: 45
+Extracted power: 4.02e-06
+[DRiLLS 2024-07-17 16:59:44] Iteration: 46
+Extracted power: 3.88e-06
+[DRiLLS 2024-07-17 17:00:22] Iteration: 47
+Extracted power: 3.77e-06
+[DRiLLS 2024-07-17 17:00:59] Iteration: 48
+Extracted power: 3.77e-06
+[DRiLLS 2024-07-17 17:01:37] Iteration: 49
+Extracted power: 3.77e-06
+[DRiLLS 2024-07-17 17:02:14] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 17:02:14] Episode: 8 - done with total reward = -0.026219778
+[DRiLLS 2024-07-17 17:02:14] Episode 8 Run Time ~ -31.017406900723774 minutes.
+
+[DRiLLS 2024-07-17 17:02:14] Episode: 10
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 17:02:51] Iteration: 1
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 17:03:28] Iteration: 2
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-17 17:04:05] Iteration: 3
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-17 17:04:42] Iteration: 4
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 17:05:19] Iteration: 5
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-17 17:05:56] Iteration: 6
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 17:06:34] Iteration: 7
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:07:11] Iteration: 8
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:07:48] Iteration: 9
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 17:08:24] Iteration: 10
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 17:09:01] Iteration: 11
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 17:09:38] Iteration: 12
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 17:10:15] Iteration: 13
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:10:52] Iteration: 14
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:11:29] Iteration: 15
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:12:06] Iteration: 16
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:12:43] Iteration: 17
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:13:20] Iteration: 18
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 17:13:57] Iteration: 19
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:14:34] Iteration: 20
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 17:15:11] Iteration: 21
+Extracted power: 2.61e-06
+[DRiLLS 2024-07-17 17:15:48] Iteration: 22
+Extracted power: 2.61e-06
+[DRiLLS 2024-07-17 17:16:25] Iteration: 23
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-17 17:17:02] Iteration: 24
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-17 17:17:39] Iteration: 25
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-17 17:18:16] Iteration: 26
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-17 17:18:53] Iteration: 27
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-17 17:19:30] Iteration: 28
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 17:20:07] Iteration: 29
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 17:20:44] Iteration: 30
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 17:21:21] Iteration: 31
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 17:21:58] Iteration: 32
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-17 17:22:36] Iteration: 33
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 17:23:12] Iteration: 34
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-17 17:23:49] Iteration: 35
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-17 17:24:26] Iteration: 36
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 17:25:03] Iteration: 37
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-17 17:25:40] Iteration: 38
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 17:26:17] Iteration: 39
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 17:26:54] Iteration: 40
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 17:27:31] Iteration: 41
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 17:28:08] Iteration: 42
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 17:28:45] Iteration: 43
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 17:29:22] Iteration: 44
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 17:29:59] Iteration: 45
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 17:30:36] Iteration: 46
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 17:31:13] Iteration: 47
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 17:31:49] Iteration: 48
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 17:32:26] Iteration: 49
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 17:33:03] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 17:33:03] Episode: 9 - done with total reward = -0.09766431
+[DRiLLS 2024-07-17 17:33:03] Episode 9 Run Time ~ -30.824572734038036 minutes.
+
+[DRiLLS 2024-07-17 17:33:03] Episode: 11
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 17:33:42] Iteration: 1
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 17:34:18] Iteration: 2
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 17:34:55] Iteration: 3
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 17:35:32] Iteration: 4
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 17:36:09] Iteration: 5
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 17:36:46] Iteration: 6
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 17:37:23] Iteration: 7
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 17:38:00] Iteration: 8
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 17:38:37] Iteration: 9
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-17 17:39:14] Iteration: 10
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-17 17:39:51] Iteration: 11
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:40:27] Iteration: 12
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:41:04] Iteration: 13
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:41:41] Iteration: 14
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:42:18] Iteration: 15
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:42:55] Iteration: 16
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:43:32] Iteration: 17
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-17 17:44:09] Iteration: 18
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 17:44:46] Iteration: 19
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 17:45:22] Iteration: 20
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 17:45:59] Iteration: 21
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 17:46:36] Iteration: 22
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-17 17:47:13] Iteration: 23
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 17:47:50] Iteration: 24
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-17 17:48:27] Iteration: 25
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 17:49:04] Iteration: 26
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 17:49:41] Iteration: 27
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 17:50:18] Iteration: 28
+Extracted power: 4.12e-06
+[DRiLLS 2024-07-17 17:50:55] Iteration: 29
+Extracted power: 4.12e-06
+[DRiLLS 2024-07-17 17:51:32] Iteration: 30
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-17 17:52:09] Iteration: 31
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 17:52:46] Iteration: 32
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-17 17:53:23] Iteration: 33
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 17:53:59] Iteration: 34
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 17:54:36] Iteration: 35
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 17:55:13] Iteration: 36
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 17:55:50] Iteration: 37
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 17:56:27] Iteration: 38
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-17 17:57:04] Iteration: 39
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-17 17:57:41] Iteration: 40
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 17:58:18] Iteration: 41
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 17:58:55] Iteration: 42
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 17:59:32] Iteration: 43
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 18:00:09] Iteration: 44
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 18:00:46] Iteration: 45
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 18:01:23] Iteration: 46
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 18:02:00] Iteration: 47
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 18:02:36] Iteration: 48
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 18:03:13] Iteration: 49
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 18:03:50] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 18:03:50] Episode: 10 - done with total reward = -0.087140866
+[DRiLLS 2024-07-17 18:03:50] Episode 10 Run Time ~ -30.776896838347117 minutes.
+
+[DRiLLS 2024-07-17 18:03:50] Episode: 12
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 18:04:27] Iteration: 1
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 18:05:04] Iteration: 2
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 18:05:41] Iteration: 3
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 18:06:18] Iteration: 4
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 18:06:55] Iteration: 5
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 18:07:31] Iteration: 6
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 18:08:08] Iteration: 7
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 18:08:44] Iteration: 8
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 18:09:21] Iteration: 9
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 18:09:58] Iteration: 10
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-17 18:10:35] Iteration: 11
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 18:11:12] Iteration: 12
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 18:11:49] Iteration: 13
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-17 18:12:26] Iteration: 14
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-17 18:13:03] Iteration: 15
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-17 18:13:40] Iteration: 16
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-17 18:14:17] Iteration: 17
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:14:54] Iteration: 18
+Extracted power: 3.67e-06
+[DRiLLS 2024-07-17 18:15:31] Iteration: 19
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:16:08] Iteration: 20
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:16:45] Iteration: 21
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 18:17:22] Iteration: 22
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 18:17:59] Iteration: 23
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 18:18:36] Iteration: 24
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 18:19:13] Iteration: 25
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 18:19:50] Iteration: 26
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 18:20:27] Iteration: 27
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 18:21:03] Iteration: 28
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 18:21:40] Iteration: 29
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-17 18:22:18] Iteration: 30
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-17 18:22:54] Iteration: 31
+Extracted power: 3e-06
+[DRiLLS 2024-07-17 18:23:31] Iteration: 32
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:24:08] Iteration: 33
+Extracted power: 3e-06
+[DRiLLS 2024-07-17 18:24:45] Iteration: 34
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:25:22] Iteration: 35
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:25:59] Iteration: 36
+Extracted power: 3e-06
+[DRiLLS 2024-07-17 18:26:36] Iteration: 37
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:27:13] Iteration: 38
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:27:50] Iteration: 39
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:28:27] Iteration: 40
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:29:04] Iteration: 41
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 18:29:41] Iteration: 42
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 18:30:18] Iteration: 43
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 18:30:55] Iteration: 44
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:31:33] Iteration: 45
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:32:10] Iteration: 46
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:32:47] Iteration: 47
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:33:24] Iteration: 48
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:34:01] Iteration: 49
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 18:34:39] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 18:34:39] Episode: 11 - done with total reward = 0.0009807497
+[DRiLLS 2024-07-17 18:34:39] Episode 11 Run Time ~ -30.809288382530212 minutes.
+
+[DRiLLS 2024-07-17 18:34:39] Episode: 13
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 18:35:16] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 18:35:52] Iteration: 2
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 18:36:29] Iteration: 3
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-17 18:37:06] Iteration: 4
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 18:37:43] Iteration: 5
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 18:38:20] Iteration: 6
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 18:38:56] Iteration: 7
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 18:39:33] Iteration: 8
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 18:40:10] Iteration: 9
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:40:46] Iteration: 10
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:41:23] Iteration: 11
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:42:00] Iteration: 12
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:42:36] Iteration: 13
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:43:13] Iteration: 14
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:43:50] Iteration: 15
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:44:27] Iteration: 16
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:45:04] Iteration: 17
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 18:45:41] Iteration: 18
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 18:46:18] Iteration: 19
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 18:46:54] Iteration: 20
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 18:47:31] Iteration: 21
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 18:48:08] Iteration: 22
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-17 18:48:45] Iteration: 23
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 18:49:23] Iteration: 24
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:50:02] Iteration: 25
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:50:40] Iteration: 26
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:51:18] Iteration: 27
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:51:56] Iteration: 28
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:52:34] Iteration: 29
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:53:14] Iteration: 30
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:53:52] Iteration: 31
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:54:29] Iteration: 32
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:55:07] Iteration: 33
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:55:44] Iteration: 34
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:56:21] Iteration: 35
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 18:56:58] Iteration: 36
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 18:57:36] Iteration: 37
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-17 18:58:15] Iteration: 38
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-17 18:58:54] Iteration: 39
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 18:59:33] Iteration: 40
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 19:00:11] Iteration: 41
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 19:00:49] Iteration: 42
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 19:01:27] Iteration: 43
+Extracted power: 2.49e-06
+[DRiLLS 2024-07-17 19:02:05] Iteration: 44
+Extracted power: 2.49e-06
+[DRiLLS 2024-07-17 19:02:44] Iteration: 45
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 19:03:22] Iteration: 46
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-17 19:04:00] Iteration: 47
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-17 19:04:38] Iteration: 48
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-17 19:05:15] Iteration: 49
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-17 19:05:52] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 19:05:52] Episode: 12 - done with total reward = -0.13450658
+[DRiLLS 2024-07-17 19:05:52] Episode 12 Run Time ~ -31.226141516367594 minutes.
+
+[DRiLLS 2024-07-17 19:05:52] Episode: 14
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 19:06:29] Iteration: 1
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:07:06] Iteration: 2
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-17 19:07:43] Iteration: 3
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-17 19:08:21] Iteration: 4
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 19:08:58] Iteration: 5
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 19:09:34] Iteration: 6
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 19:10:11] Iteration: 7
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 19:10:48] Iteration: 8
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:11:25] Iteration: 9
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-17 19:12:02] Iteration: 10
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:12:39] Iteration: 11
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:13:16] Iteration: 12
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-17 19:13:53] Iteration: 13
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 19:14:30] Iteration: 14
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 19:15:07] Iteration: 15
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-17 19:15:44] Iteration: 16
+Extracted power: 3.96e-06
+[DRiLLS 2024-07-17 19:16:21] Iteration: 17
+Extracted power: 4.23e-06
+[DRiLLS 2024-07-17 19:16:58] Iteration: 18
+Extracted power: 3.97e-06
+[DRiLLS 2024-07-17 19:17:35] Iteration: 19
+Extracted power: 3.96e-06
+[DRiLLS 2024-07-17 19:18:12] Iteration: 20
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 19:18:49] Iteration: 21
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 19:19:26] Iteration: 22
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 19:20:03] Iteration: 23
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 19:20:40] Iteration: 24
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 19:21:17] Iteration: 25
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 19:21:54] Iteration: 26
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-17 19:22:32] Iteration: 27
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-17 19:23:09] Iteration: 28
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-17 19:23:46] Iteration: 29
+Extracted power: 4.09e-06
+[DRiLLS 2024-07-17 19:24:23] Iteration: 30
+Extracted power: 3.94e-06
+[DRiLLS 2024-07-17 19:25:00] Iteration: 31
+Extracted power: 3.94e-06
+[DRiLLS 2024-07-17 19:25:37] Iteration: 32
+Extracted power: 4.22e-06
+[DRiLLS 2024-07-17 19:26:14] Iteration: 33
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 19:26:51] Iteration: 34
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 19:27:28] Iteration: 35
+Extracted power: 3.94e-06
+[DRiLLS 2024-07-17 19:28:05] Iteration: 36
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 19:28:42] Iteration: 37
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 19:29:19] Iteration: 38
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 19:29:56] Iteration: 39
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 19:30:33] Iteration: 40
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 19:31:10] Iteration: 41
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 19:31:47] Iteration: 42
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 19:32:24] Iteration: 43
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 19:33:01] Iteration: 44
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 19:33:37] Iteration: 45
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 19:34:14] Iteration: 46
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-17 19:34:51] Iteration: 47
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 19:35:28] Iteration: 48
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 19:36:05] Iteration: 49
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 19:36:42] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 19:36:42] Episode: 13 - done with total reward = -0.067106955
+[DRiLLS 2024-07-17 19:36:42] Episode 13 Run Time ~ -30.838223711649576 minutes.
+
+[DRiLLS 2024-07-17 19:36:42] Episode: 15
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 19:37:19] Iteration: 1
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:37:56] Iteration: 2
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 19:38:33] Iteration: 3
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 19:39:10] Iteration: 4
+Extracted power: 2.79e-06
+[DRiLLS 2024-07-17 19:39:47] Iteration: 5
+Extracted power: 3.69e-06
+[DRiLLS 2024-07-17 19:40:24] Iteration: 6
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 19:41:01] Iteration: 7
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:41:37] Iteration: 8
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-17 19:42:14] Iteration: 9
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-17 19:42:51] Iteration: 10
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 19:43:28] Iteration: 11
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 19:44:04] Iteration: 12
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 19:44:42] Iteration: 13
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 19:45:18] Iteration: 14
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:45:55] Iteration: 15
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 19:46:32] Iteration: 16
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 19:47:09] Iteration: 17
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 19:47:46] Iteration: 18
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 19:48:22] Iteration: 19
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 19:48:59] Iteration: 20
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 19:49:36] Iteration: 21
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 19:50:12] Iteration: 22
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 19:50:49] Iteration: 23
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:51:26] Iteration: 24
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:52:03] Iteration: 25
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 19:52:40] Iteration: 26
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 19:53:16] Iteration: 27
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:53:53] Iteration: 28
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:54:30] Iteration: 29
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:55:07] Iteration: 30
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:55:44] Iteration: 31
+Extracted power: 2.79e-06
+[DRiLLS 2024-07-17 19:56:21] Iteration: 32
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 19:56:58] Iteration: 33
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 19:57:35] Iteration: 34
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 19:58:13] Iteration: 35
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:58:50] Iteration: 36
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 19:59:27] Iteration: 37
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 20:00:04] Iteration: 38
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-17 20:00:41] Iteration: 39
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:01:18] Iteration: 40
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:01:55] Iteration: 41
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:02:32] Iteration: 42
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:03:09] Iteration: 43
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:03:46] Iteration: 44
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:04:23] Iteration: 45
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:05:00] Iteration: 46
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:05:36] Iteration: 47
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 20:06:13] Iteration: 48
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 20:06:50] Iteration: 49
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 20:07:27] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 20:07:27] Episode: 14 - done with total reward = -0.14815517
+[DRiLLS 2024-07-17 20:07:27] Episode 14 Run Time ~ -30.741097835699716 minutes.
+
+[DRiLLS 2024-07-17 20:07:27] Episode: 16
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 20:08:03] Iteration: 1
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-17 20:08:40] Iteration: 2
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-17 20:09:17] Iteration: 3
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-17 20:09:54] Iteration: 4
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 20:10:31] Iteration: 5
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 20:11:07] Iteration: 6
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 20:11:44] Iteration: 7
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 20:12:21] Iteration: 8
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-17 20:12:58] Iteration: 9
+Extracted power: 3.68e-06
+[DRiLLS 2024-07-17 20:13:35] Iteration: 10
+Extracted power: 3.68e-06
+[DRiLLS 2024-07-17 20:14:13] Iteration: 11
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 20:14:50] Iteration: 12
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 20:15:26] Iteration: 13
+Extracted power: 3.92e-06
+[DRiLLS 2024-07-17 20:16:03] Iteration: 14
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:16:40] Iteration: 15
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:17:17] Iteration: 16
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 20:17:54] Iteration: 17
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 20:18:31] Iteration: 18
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:19:07] Iteration: 19
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:19:44] Iteration: 20
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:20:21] Iteration: 21
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:20:58] Iteration: 22
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:21:35] Iteration: 23
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 20:22:12] Iteration: 24
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 20:22:49] Iteration: 25
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 20:23:26] Iteration: 26
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 20:24:02] Iteration: 27
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 20:24:39] Iteration: 28
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 20:25:16] Iteration: 29
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-17 20:25:53] Iteration: 30
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 20:26:30] Iteration: 31
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 20:27:07] Iteration: 32
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 20:27:44] Iteration: 33
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-17 20:28:20] Iteration: 34
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-17 20:28:57] Iteration: 35
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-17 20:29:34] Iteration: 36
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-17 20:30:11] Iteration: 37
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-17 20:30:48] Iteration: 38
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 20:31:25] Iteration: 39
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 20:32:01] Iteration: 40
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-17 20:32:38] Iteration: 41
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 20:33:15] Iteration: 42
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 20:33:53] Iteration: 43
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 20:34:29] Iteration: 44
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 20:35:06] Iteration: 45
+Extracted power: 2.82e-06
+[DRiLLS 2024-07-17 20:35:43] Iteration: 46
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-17 20:36:21] Iteration: 47
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-17 20:36:58] Iteration: 48
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 20:37:35] Iteration: 49
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 20:38:12] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 20:38:12] Episode: 15 - done with total reward = -0.2097961
+[DRiLLS 2024-07-17 20:38:12] Episode 15 Run Time ~ -30.748696919282278 minutes.
+
+[DRiLLS 2024-07-17 20:38:12] Episode: 17
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 20:38:49] Iteration: 1
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 20:39:25] Iteration: 2
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 20:40:02] Iteration: 3
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 20:40:39] Iteration: 4
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-17 20:41:16] Iteration: 5
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 20:41:53] Iteration: 6
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 20:42:30] Iteration: 7
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 20:43:06] Iteration: 8
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 20:43:43] Iteration: 9
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 20:44:20] Iteration: 10
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-17 20:44:57] Iteration: 11
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 20:45:34] Iteration: 12
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 20:46:10] Iteration: 13
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 20:46:47] Iteration: 14
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-17 20:47:24] Iteration: 15
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 20:48:01] Iteration: 16
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 20:48:38] Iteration: 17
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 20:49:15] Iteration: 18
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 20:49:51] Iteration: 19
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 20:50:28] Iteration: 20
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 20:51:05] Iteration: 21
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 20:51:41] Iteration: 22
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-17 20:52:19] Iteration: 23
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 20:52:55] Iteration: 24
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 20:53:32] Iteration: 25
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 20:54:09] Iteration: 26
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 20:54:46] Iteration: 27
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-17 20:55:24] Iteration: 28
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 20:56:00] Iteration: 29
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 20:56:38] Iteration: 30
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 20:57:15] Iteration: 31
+Extracted power: 2.82e-06
+[DRiLLS 2024-07-17 20:57:52] Iteration: 32
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-17 20:58:29] Iteration: 33
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-17 20:59:06] Iteration: 34
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-17 20:59:43] Iteration: 35
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-17 21:00:20] Iteration: 36
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-17 21:00:58] Iteration: 37
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 21:01:34] Iteration: 38
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 21:02:11] Iteration: 39
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-17 21:02:48] Iteration: 40
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-17 21:03:25] Iteration: 41
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-17 21:04:02] Iteration: 42
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-17 21:04:38] Iteration: 43
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-17 21:05:15] Iteration: 44
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-17 21:05:52] Iteration: 45
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-17 21:06:29] Iteration: 46
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-17 21:07:06] Iteration: 47
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 21:07:43] Iteration: 48
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 21:08:20] Iteration: 49
+Extracted power: 2.87e-06
+[DRiLLS 2024-07-17 21:08:57] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 21:08:57] Episode: 16 - done with total reward = -0.16843954
+[DRiLLS 2024-07-17 21:08:57] Episode 16 Run Time ~ -30.754119686285655 minutes.
+
+[DRiLLS 2024-07-17 21:08:57] Episode: 18
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 21:09:34] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 21:10:11] Iteration: 2
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-17 21:10:48] Iteration: 3
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-17 21:11:24] Iteration: 4
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-17 21:12:02] Iteration: 5
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-17 21:12:38] Iteration: 6
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-17 21:13:15] Iteration: 7
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:13:51] Iteration: 8
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:14:29] Iteration: 9
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:15:06] Iteration: 10
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:15:43] Iteration: 11
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 21:16:19] Iteration: 12
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 21:16:57] Iteration: 13
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 21:17:33] Iteration: 14
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:18:10] Iteration: 15
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:18:47] Iteration: 16
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:19:23] Iteration: 17
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:20:00] Iteration: 18
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:20:37] Iteration: 19
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:21:14] Iteration: 20
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:21:51] Iteration: 21
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:22:27] Iteration: 22
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:23:04] Iteration: 23
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 21:23:41] Iteration: 24
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:24:17] Iteration: 25
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 21:24:54] Iteration: 26
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-17 21:25:31] Iteration: 27
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-17 21:26:08] Iteration: 28
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-17 21:26:45] Iteration: 29
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-17 21:27:22] Iteration: 30
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-17 21:27:58] Iteration: 31
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-17 21:28:35] Iteration: 32
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 21:29:12] Iteration: 33
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 21:29:49] Iteration: 34
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 21:30:25] Iteration: 35
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 21:31:02] Iteration: 36
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 21:31:39] Iteration: 37
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 21:32:16] Iteration: 38
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 21:32:52] Iteration: 39
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 21:33:30] Iteration: 40
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 21:34:07] Iteration: 41
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 21:34:44] Iteration: 42
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 21:35:21] Iteration: 43
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-17 21:35:57] Iteration: 44
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-17 21:36:34] Iteration: 45
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 21:37:11] Iteration: 46
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 21:37:48] Iteration: 47
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 21:38:25] Iteration: 48
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 21:39:02] Iteration: 49
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-17 21:39:39] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 21:39:39] Episode: 17 - done with total reward = -0.06464119
+[DRiLLS 2024-07-17 21:39:39] Episode 17 Run Time ~ -30.692137785752614 minutes.
+
+[DRiLLS 2024-07-17 21:39:39] Episode: 19
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 21:40:15] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 21:40:52] Iteration: 2
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 21:41:29] Iteration: 3
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 21:42:06] Iteration: 4
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 21:42:43] Iteration: 5
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:43:19] Iteration: 6
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:43:56] Iteration: 7
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 21:44:33] Iteration: 8
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:45:10] Iteration: 9
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:45:46] Iteration: 10
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:46:23] Iteration: 11
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:47:00] Iteration: 12
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:47:37] Iteration: 13
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:48:14] Iteration: 14
+Extracted power: 3.79e-06
+[DRiLLS 2024-07-17 21:48:51] Iteration: 15
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 21:49:28] Iteration: 16
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 21:50:05] Iteration: 17
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 21:50:42] Iteration: 18
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-17 21:51:19] Iteration: 19
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 21:51:58] Iteration: 20
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 21:52:35] Iteration: 21
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 21:53:12] Iteration: 22
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 21:53:49] Iteration: 23
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 21:54:25] Iteration: 24
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 21:55:02] Iteration: 25
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 21:55:39] Iteration: 26
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 21:56:16] Iteration: 27
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-17 21:56:53] Iteration: 28
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-17 21:57:30] Iteration: 29
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-17 21:58:07] Iteration: 30
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-17 21:58:44] Iteration: 31
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-17 21:59:21] Iteration: 32
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-17 21:59:58] Iteration: 33
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-17 22:00:34] Iteration: 34
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 22:01:11] Iteration: 35
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 22:01:48] Iteration: 36
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-17 22:02:25] Iteration: 37
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:03:02] Iteration: 38
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:03:38] Iteration: 39
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:04:15] Iteration: 40
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-17 22:04:52] Iteration: 41
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-17 22:05:29] Iteration: 42
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 22:06:06] Iteration: 43
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 22:06:43] Iteration: 44
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 22:07:20] Iteration: 45
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 22:07:57] Iteration: 46
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 22:08:34] Iteration: 47
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-17 22:09:11] Iteration: 48
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-17 22:09:48] Iteration: 49
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-17 22:10:25] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 22:10:25] Episode: 18 - done with total reward = -0.0021905154
+[DRiLLS 2024-07-17 22:10:25] Episode 18 Run Time ~ -30.771530930201212 minutes.
+
+[DRiLLS 2024-07-17 22:10:25] Episode: 20
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 22:11:02] Iteration: 1
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-17 22:11:39] Iteration: 2
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-17 22:12:16] Iteration: 3
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-17 22:12:52] Iteration: 4
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-17 22:13:29] Iteration: 5
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-17 22:14:06] Iteration: 6
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 22:14:43] Iteration: 7
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-17 22:15:19] Iteration: 8
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:15:56] Iteration: 9
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:16:33] Iteration: 10
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:17:10] Iteration: 11
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-17 22:17:46] Iteration: 12
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:18:23] Iteration: 13
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:19:00] Iteration: 14
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:19:37] Iteration: 15
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:20:15] Iteration: 16
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-17 22:20:52] Iteration: 17
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-17 22:21:29] Iteration: 18
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 22:22:06] Iteration: 19
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:22:43] Iteration: 20
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:23:20] Iteration: 21
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:23:57] Iteration: 22
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:24:34] Iteration: 23
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:25:13] Iteration: 24
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:25:51] Iteration: 25
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:26:28] Iteration: 26
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 22:27:06] Iteration: 27
+Extracted power: 2.69e-06
+[DRiLLS 2024-07-17 22:27:42] Iteration: 28
+Extracted power: 2.69e-06
+[DRiLLS 2024-07-17 22:28:19] Iteration: 29
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 22:28:56] Iteration: 30
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 22:29:33] Iteration: 31
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-17 22:30:10] Iteration: 32
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 22:30:47] Iteration: 33
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-17 22:31:24] Iteration: 34
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 22:32:01] Iteration: 35
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 22:32:38] Iteration: 36
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 22:33:14] Iteration: 37
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 22:33:51] Iteration: 38
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 22:34:29] Iteration: 39
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 22:35:06] Iteration: 40
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 22:35:43] Iteration: 41
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-17 22:36:20] Iteration: 42
+Extracted power: 2.73e-06
+[DRiLLS 2024-07-17 22:36:58] Iteration: 43
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-17 22:37:35] Iteration: 44
+Extracted power: 3e-06
+[DRiLLS 2024-07-17 22:38:12] Iteration: 45
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 22:38:49] Iteration: 46
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 22:39:26] Iteration: 47
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 22:40:03] Iteration: 48
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-17 22:40:40] Iteration: 49
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-17 22:41:17] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 22:41:17] Episode: 19 - done with total reward = -0.066151164
+[DRiLLS 2024-07-17 22:41:17] Episode 19 Run Time ~ -30.869643704096475 minutes.
+
+[DRiLLS 2024-07-17 22:41:17] Episode: 21
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 22:41:54] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 22:42:30] Iteration: 2
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 22:43:07] Iteration: 3
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 22:43:44] Iteration: 4
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 22:44:21] Iteration: 5
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-17 22:44:58] Iteration: 6
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 22:45:35] Iteration: 7
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:46:12] Iteration: 8
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:46:49] Iteration: 9
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:47:26] Iteration: 10
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:48:03] Iteration: 11
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:48:39] Iteration: 12
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:49:16] Iteration: 13
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:49:53] Iteration: 14
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:50:30] Iteration: 15
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:51:07] Iteration: 16
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:51:44] Iteration: 17
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:52:21] Iteration: 18
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:52:58] Iteration: 19
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:53:35] Iteration: 20
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:54:12] Iteration: 21
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:54:49] Iteration: 22
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:55:25] Iteration: 23
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:56:02] Iteration: 24
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-17 22:56:40] Iteration: 25
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:57:16] Iteration: 26
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:57:53] Iteration: 27
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:58:30] Iteration: 28
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 22:59:07] Iteration: 29
+Extracted power: 3.97e-06
+[DRiLLS 2024-07-17 22:59:44] Iteration: 30
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 23:00:21] Iteration: 31
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 23:00:58] Iteration: 32
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 23:01:35] Iteration: 33
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-17 23:02:12] Iteration: 34
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-17 23:02:49] Iteration: 35
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 23:03:26] Iteration: 36
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 23:04:03] Iteration: 37
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-17 23:04:40] Iteration: 38
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 23:05:16] Iteration: 39
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 23:05:53] Iteration: 40
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 23:06:30] Iteration: 41
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 23:07:08] Iteration: 42
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 23:07:45] Iteration: 43
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-17 23:08:22] Iteration: 44
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 23:08:59] Iteration: 45
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 23:09:36] Iteration: 46
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 23:10:14] Iteration: 47
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 23:10:50] Iteration: 48
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 23:11:27] Iteration: 49
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-17 23:12:04] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 23:12:04] Episode: 20 - done with total reward = -0.10340226
+[DRiLLS 2024-07-17 23:12:04] Episode 20 Run Time ~ -30.787458618481953 minutes.
+
+[DRiLLS 2024-07-17 23:12:04] Episode: 22
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 23:12:41] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-17 23:13:18] Iteration: 2
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 23:13:55] Iteration: 3
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-17 23:14:32] Iteration: 4
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 23:15:09] Iteration: 5
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 23:15:46] Iteration: 6
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 23:16:23] Iteration: 7
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 23:17:00] Iteration: 8
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-17 23:17:37] Iteration: 9
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 23:18:14] Iteration: 10
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 23:18:51] Iteration: 11
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-17 23:19:28] Iteration: 12
+Extracted power: 2.73e-06
+[DRiLLS 2024-07-17 23:20:05] Iteration: 13
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 23:20:42] Iteration: 14
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 23:21:18] Iteration: 15
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-17 23:21:55] Iteration: 16
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-17 23:22:32] Iteration: 17
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-17 23:23:09] Iteration: 18
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 23:23:46] Iteration: 19
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 23:24:23] Iteration: 20
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 23:24:59] Iteration: 21
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-17 23:25:36] Iteration: 22
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-17 23:26:13] Iteration: 23
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-17 23:26:50] Iteration: 24
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-17 23:27:27] Iteration: 25
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 23:28:04] Iteration: 26
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 23:28:40] Iteration: 27
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-17 23:29:17] Iteration: 28
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-17 23:29:54] Iteration: 29
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-17 23:30:31] Iteration: 30
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 23:31:08] Iteration: 31
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-17 23:31:44] Iteration: 32
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 23:32:21] Iteration: 33
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 23:32:58] Iteration: 34
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 23:33:35] Iteration: 35
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-17 23:34:12] Iteration: 36
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 23:34:49] Iteration: 37
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 23:35:25] Iteration: 38
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-17 23:36:02] Iteration: 39
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 23:36:39] Iteration: 40
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 23:37:16] Iteration: 41
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 23:37:53] Iteration: 42
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-17 23:38:29] Iteration: 43
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-17 23:39:06] Iteration: 44
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 23:39:43] Iteration: 45
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 23:40:20] Iteration: 46
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-17 23:40:57] Iteration: 47
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 23:41:34] Iteration: 48
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 23:42:11] Iteration: 49
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-17 23:42:48] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-17 23:42:48] Episode: 21 - done with total reward = -0.12560946
+[DRiLLS 2024-07-17 23:42:48] Episode 21 Run Time ~ -30.722805766264596 minutes.
+
+[DRiLLS 2024-07-17 23:42:48] Episode: 23
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-17 23:43:24] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-17 23:44:01] Iteration: 2
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-17 23:44:38] Iteration: 3
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 23:45:15] Iteration: 4
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 23:45:52] Iteration: 5
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-17 23:46:29] Iteration: 6
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 23:47:06] Iteration: 7
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-17 23:47:43] Iteration: 8
+Extracted power: 2.82e-06
+[DRiLLS 2024-07-17 23:48:19] Iteration: 9
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:48:56] Iteration: 10
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:49:33] Iteration: 11
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:50:10] Iteration: 12
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:50:47] Iteration: 13
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:51:24] Iteration: 14
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:52:01] Iteration: 15
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-17 23:52:38] Iteration: 16
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 23:53:15] Iteration: 17
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 23:53:52] Iteration: 18
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 23:54:29] Iteration: 19
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-17 23:55:06] Iteration: 20
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 23:55:43] Iteration: 21
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 23:56:20] Iteration: 22
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 23:56:57] Iteration: 23
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 23:57:34] Iteration: 24
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-17 23:58:11] Iteration: 25
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-17 23:58:48] Iteration: 26
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-17 23:59:24] Iteration: 27
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 00:00:01] Iteration: 28
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 00:00:38] Iteration: 29
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 00:01:15] Iteration: 30
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 00:01:51] Iteration: 31
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 00:02:28] Iteration: 32
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 00:03:05] Iteration: 33
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:03:42] Iteration: 34
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:04:19] Iteration: 35
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:04:55] Iteration: 36
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:05:32] Iteration: 37
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:06:09] Iteration: 38
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:06:47] Iteration: 39
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:07:24] Iteration: 40
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:08:00] Iteration: 41
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 00:08:37] Iteration: 42
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 00:09:15] Iteration: 43
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 00:09:52] Iteration: 44
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 00:10:29] Iteration: 45
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 00:11:06] Iteration: 46
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 00:11:43] Iteration: 47
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 00:12:20] Iteration: 48
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 00:12:57] Iteration: 49
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 00:13:34] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 00:13:34] Episode: 22 - done with total reward = -0.25001216
+[DRiLLS 2024-07-18 00:13:34] Episode 22 Run Time ~ -30.765047200520833 minutes.
+
+[DRiLLS 2024-07-18 00:13:34] Episode: 24
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 00:14:11] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 00:14:47] Iteration: 2
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 00:15:25] Iteration: 3
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 00:16:01] Iteration: 4
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 00:16:38] Iteration: 5
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 00:17:15] Iteration: 6
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 00:17:52] Iteration: 7
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 00:18:29] Iteration: 8
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 00:19:06] Iteration: 9
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 00:19:43] Iteration: 10
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 00:20:20] Iteration: 11
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 00:20:57] Iteration: 12
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 00:21:34] Iteration: 13
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 00:22:11] Iteration: 14
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 00:22:48] Iteration: 15
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 00:23:25] Iteration: 16
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 00:24:01] Iteration: 17
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:24:39] Iteration: 18
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:25:16] Iteration: 19
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:25:53] Iteration: 20
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:26:30] Iteration: 21
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:27:08] Iteration: 22
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:27:45] Iteration: 23
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:28:22] Iteration: 24
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 00:28:59] Iteration: 25
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:29:36] Iteration: 26
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:30:14] Iteration: 27
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:30:51] Iteration: 28
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:31:28] Iteration: 29
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 00:32:05] Iteration: 30
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:32:42] Iteration: 31
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 00:33:19] Iteration: 32
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 00:33:56] Iteration: 33
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 00:34:33] Iteration: 34
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 00:35:10] Iteration: 35
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 00:35:47] Iteration: 36
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 00:36:24] Iteration: 37
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 00:37:01] Iteration: 38
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 00:37:38] Iteration: 39
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 00:38:15] Iteration: 40
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 00:38:52] Iteration: 41
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 00:39:30] Iteration: 42
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 00:40:07] Iteration: 43
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 00:40:44] Iteration: 44
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 00:41:21] Iteration: 45
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 00:41:58] Iteration: 46
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 00:42:34] Iteration: 47
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 00:43:11] Iteration: 48
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 00:43:48] Iteration: 49
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 00:44:25] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 00:44:25] Episode: 23 - done with total reward = -0.05127935
+[DRiLLS 2024-07-18 00:44:25] Episode 23 Run Time ~ -30.85558536450068 minutes.
+
+[DRiLLS 2024-07-18 00:44:25] Episode: 25
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 00:45:02] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 00:45:38] Iteration: 2
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 00:46:15] Iteration: 3
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 00:46:52] Iteration: 4
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 00:47:29] Iteration: 5
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 00:48:05] Iteration: 6
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 00:48:42] Iteration: 7
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 00:49:18] Iteration: 8
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 00:49:55] Iteration: 9
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 00:50:32] Iteration: 10
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 00:51:09] Iteration: 11
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 00:51:46] Iteration: 12
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 00:52:22] Iteration: 13
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 00:52:59] Iteration: 14
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 00:53:36] Iteration: 15
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 00:54:12] Iteration: 16
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 00:54:49] Iteration: 17
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 00:55:26] Iteration: 18
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 00:56:03] Iteration: 19
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 00:56:40] Iteration: 20
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 00:57:17] Iteration: 21
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 00:57:53] Iteration: 22
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 00:58:31] Iteration: 23
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 00:59:07] Iteration: 24
+Extracted power: 4.26e-06
+[DRiLLS 2024-07-18 00:59:45] Iteration: 25
+Extracted power: 2.82e-06
+[DRiLLS 2024-07-18 01:00:22] Iteration: 26
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 01:00:59] Iteration: 27
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 01:01:36] Iteration: 28
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 01:02:13] Iteration: 29
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 01:02:50] Iteration: 30
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 01:03:27] Iteration: 31
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 01:04:04] Iteration: 32
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 01:04:41] Iteration: 33
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 01:05:18] Iteration: 34
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 01:05:54] Iteration: 35
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 01:06:31] Iteration: 36
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 01:07:08] Iteration: 37
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 01:07:45] Iteration: 38
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 01:08:22] Iteration: 39
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 01:08:58] Iteration: 40
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 01:09:35] Iteration: 41
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 01:10:12] Iteration: 42
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 01:10:49] Iteration: 43
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 01:11:26] Iteration: 44
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 01:12:02] Iteration: 45
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 01:12:39] Iteration: 46
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 01:13:16] Iteration: 47
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-18 01:13:53] Iteration: 48
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 01:14:30] Iteration: 49
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 01:15:07] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 01:15:07] Episode: 24 - done with total reward = -0.054320186
+[DRiLLS 2024-07-18 01:15:07] Episode 24 Run Time ~ -30.701883804798126 minutes.
+
+[DRiLLS 2024-07-18 01:15:07] Episode: 26
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 01:15:44] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 01:16:21] Iteration: 2
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 01:16:58] Iteration: 3
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 01:17:34] Iteration: 4
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 01:18:11] Iteration: 5
+Extracted power: 2.74e-06
+[DRiLLS 2024-07-18 01:18:48] Iteration: 6
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 01:19:24] Iteration: 7
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:20:01] Iteration: 8
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:20:38] Iteration: 9
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 01:21:14] Iteration: 10
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 01:21:51] Iteration: 11
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:22:28] Iteration: 12
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:23:05] Iteration: 13
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:23:41] Iteration: 14
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:24:18] Iteration: 15
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 01:24:55] Iteration: 16
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 01:25:32] Iteration: 17
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-18 01:26:09] Iteration: 18
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 01:26:45] Iteration: 19
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 01:27:22] Iteration: 20
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 01:27:59] Iteration: 21
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 01:28:36] Iteration: 22
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 01:29:13] Iteration: 23
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 01:29:49] Iteration: 24
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-18 01:30:26] Iteration: 25
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 01:31:03] Iteration: 26
+Extracted power: 3.72e-06
+[DRiLLS 2024-07-18 01:31:40] Iteration: 27
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 01:32:17] Iteration: 28
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 01:32:54] Iteration: 29
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 01:33:30] Iteration: 30
+Extracted power: 3.67e-06
+[DRiLLS 2024-07-18 01:34:08] Iteration: 31
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 01:34:45] Iteration: 32
+Extracted power: 4.06e-06
+[DRiLLS 2024-07-18 01:35:21] Iteration: 33
+Extracted power: 3.84e-06
+[DRiLLS 2024-07-18 01:35:58] Iteration: 34
+Extracted power: 3.84e-06
+[DRiLLS 2024-07-18 01:36:35] Iteration: 35
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-18 01:37:12] Iteration: 36
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-18 01:37:49] Iteration: 37
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 01:38:26] Iteration: 38
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 01:39:03] Iteration: 39
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 01:39:40] Iteration: 40
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 01:40:17] Iteration: 41
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 01:40:54] Iteration: 42
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 01:41:31] Iteration: 43
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:42:07] Iteration: 44
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:42:44] Iteration: 45
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:43:21] Iteration: 46
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:43:58] Iteration: 47
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:44:34] Iteration: 48
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:45:11] Iteration: 49
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 01:45:48] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 01:45:48] Episode: 25 - done with total reward = -0.12648194
+[DRiLLS 2024-07-18 01:45:48] Episode 25 Run Time ~ -30.687766150633493 minutes.
+
+[DRiLLS 2024-07-18 01:45:48] Episode: 27
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 01:46:25] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 01:47:02] Iteration: 2
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 01:47:39] Iteration: 3
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 01:48:15] Iteration: 4
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-18 01:48:52] Iteration: 5
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 01:49:28] Iteration: 6
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 01:50:05] Iteration: 7
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 01:50:42] Iteration: 8
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 01:51:19] Iteration: 9
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 01:51:55] Iteration: 10
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 01:52:32] Iteration: 11
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 01:53:09] Iteration: 12
+Extracted power: 4.19e-06
+[DRiLLS 2024-07-18 01:53:47] Iteration: 13
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-18 01:54:24] Iteration: 14
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-18 01:55:00] Iteration: 15
+Extracted power: 4.26e-06
+[DRiLLS 2024-07-18 01:55:37] Iteration: 16
+Extracted power: 4.26e-06
+[DRiLLS 2024-07-18 01:56:14] Iteration: 17
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 01:56:51] Iteration: 18
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 01:57:28] Iteration: 19
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 01:58:05] Iteration: 20
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 01:58:42] Iteration: 21
+Extracted power: 4.11e-06
+[DRiLLS 2024-07-18 01:59:19] Iteration: 22
+Extracted power: 4.11e-06
+[DRiLLS 2024-07-18 01:59:55] Iteration: 23
+Extracted power: 4.11e-06
+[DRiLLS 2024-07-18 02:00:32] Iteration: 24
+Extracted power: 4.11e-06
+[DRiLLS 2024-07-18 02:01:09] Iteration: 25
+Extracted power: 4.11e-06
+[DRiLLS 2024-07-18 02:01:46] Iteration: 26
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 02:02:23] Iteration: 27
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 02:03:00] Iteration: 28
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 02:03:37] Iteration: 29
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 02:04:14] Iteration: 30
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 02:04:51] Iteration: 31
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 02:05:28] Iteration: 32
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 02:06:05] Iteration: 33
+Extracted power: 3.89e-06
+[DRiLLS 2024-07-18 02:06:42] Iteration: 34
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 02:07:19] Iteration: 35
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 02:07:56] Iteration: 36
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 02:08:32] Iteration: 37
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 02:09:09] Iteration: 38
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 02:09:46] Iteration: 39
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 02:10:23] Iteration: 40
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 02:11:00] Iteration: 41
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 02:11:37] Iteration: 42
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 02:12:14] Iteration: 43
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 02:12:50] Iteration: 44
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 02:13:27] Iteration: 45
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 02:14:04] Iteration: 46
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 02:14:41] Iteration: 47
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 02:15:18] Iteration: 48
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 02:15:55] Iteration: 49
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 02:16:32] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 02:16:32] Episode: 26 - done with total reward = -0.026722848
+[DRiLLS 2024-07-18 02:16:32] Episode 26 Run Time ~ -30.728685716787975 minutes.
+
+[DRiLLS 2024-07-18 02:16:32] Episode: 28
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 02:17:09] Iteration: 1
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 02:17:46] Iteration: 2
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 02:18:23] Iteration: 3
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 02:19:00] Iteration: 4
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-18 02:19:37] Iteration: 5
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 02:20:13] Iteration: 6
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 02:20:50] Iteration: 7
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 02:21:27] Iteration: 8
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 02:22:04] Iteration: 9
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 02:22:41] Iteration: 10
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 02:23:18] Iteration: 11
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 02:23:54] Iteration: 12
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 02:24:31] Iteration: 13
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:25:08] Iteration: 14
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:25:45] Iteration: 15
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:26:21] Iteration: 16
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:26:58] Iteration: 17
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:27:35] Iteration: 18
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:28:12] Iteration: 19
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:28:49] Iteration: 20
+Extracted power: 2.5e-06
+[DRiLLS 2024-07-18 02:29:25] Iteration: 21
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 02:30:02] Iteration: 22
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 02:30:39] Iteration: 23
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 02:31:15] Iteration: 24
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 02:31:52] Iteration: 25
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 02:32:29] Iteration: 26
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 02:33:06] Iteration: 27
+Extracted power: 3.84e-06
+[DRiLLS 2024-07-18 02:33:43] Iteration: 28
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 02:34:20] Iteration: 29
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-18 02:34:57] Iteration: 30
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 02:35:34] Iteration: 31
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 02:36:11] Iteration: 32
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 02:36:48] Iteration: 33
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 02:37:25] Iteration: 34
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-18 02:38:01] Iteration: 35
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-18 02:38:38] Iteration: 36
+Extracted power: 3.86e-06
+[DRiLLS 2024-07-18 02:39:15] Iteration: 37
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 02:39:52] Iteration: 38
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 02:40:28] Iteration: 39
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 02:41:05] Iteration: 40
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 02:41:42] Iteration: 41
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 02:42:18] Iteration: 42
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 02:42:55] Iteration: 43
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 02:43:32] Iteration: 44
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 02:44:09] Iteration: 45
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 02:44:46] Iteration: 46
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 02:45:24] Iteration: 47
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 02:46:01] Iteration: 48
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 02:46:38] Iteration: 49
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 02:47:15] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 02:47:15] Episode: 27 - done with total reward = 0.0026151575
+[DRiLLS 2024-07-18 02:47:15] Episode 27 Run Time ~ -30.722809501489003 minutes.
+
+[DRiLLS 2024-07-18 02:47:15] Episode: 29
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 02:47:52] Iteration: 1
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 02:48:29] Iteration: 2
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 02:49:06] Iteration: 3
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 02:49:43] Iteration: 4
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 02:50:20] Iteration: 5
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 02:50:56] Iteration: 6
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 02:51:33] Iteration: 7
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 02:52:10] Iteration: 8
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 02:52:46] Iteration: 9
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 02:53:23] Iteration: 10
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 02:54:00] Iteration: 11
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 02:54:37] Iteration: 12
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 02:55:14] Iteration: 13
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 02:55:51] Iteration: 14
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 02:56:28] Iteration: 15
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 02:57:04] Iteration: 16
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 02:57:41] Iteration: 17
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 02:58:18] Iteration: 18
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 02:58:54] Iteration: 19
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 02:59:31] Iteration: 20
+Extracted power: 2.71e-06
+[DRiLLS 2024-07-18 03:00:08] Iteration: 21
+Extracted power: 2.71e-06
+[DRiLLS 2024-07-18 03:00:44] Iteration: 22
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 03:01:21] Iteration: 23
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 03:01:58] Iteration: 24
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 03:02:35] Iteration: 25
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 03:03:12] Iteration: 26
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 03:03:49] Iteration: 27
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 03:04:26] Iteration: 28
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 03:05:03] Iteration: 29
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 03:05:40] Iteration: 30
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 03:06:16] Iteration: 31
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 03:06:54] Iteration: 32
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 03:07:31] Iteration: 33
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 03:08:08] Iteration: 34
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:08:45] Iteration: 35
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-18 03:09:22] Iteration: 36
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 03:09:59] Iteration: 37
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-18 03:10:36] Iteration: 38
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-18 03:11:13] Iteration: 39
+Extracted power: 4.05e-06
+[DRiLLS 2024-07-18 03:11:50] Iteration: 40
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 03:12:27] Iteration: 41
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 03:13:03] Iteration: 42
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 03:13:41] Iteration: 43
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 03:14:17] Iteration: 44
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 03:14:54] Iteration: 45
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:15:31] Iteration: 46
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:16:08] Iteration: 47
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:16:45] Iteration: 48
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:17:22] Iteration: 49
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:17:58] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 03:17:58] Episode: 28 - done with total reward = -0.12208903
+[DRiLLS 2024-07-18 03:17:58] Episode 28 Run Time ~ -30.715711335341137 minutes.
+
+[DRiLLS 2024-07-18 03:17:58] Episode: 30
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 03:18:35] Iteration: 1
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 03:19:12] Iteration: 2
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 03:19:49] Iteration: 3
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 03:20:26] Iteration: 4
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 03:21:02] Iteration: 5
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 03:21:39] Iteration: 6
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 03:22:16] Iteration: 7
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 03:22:53] Iteration: 8
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 03:23:29] Iteration: 9
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 03:24:06] Iteration: 10
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 03:24:42] Iteration: 11
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 03:25:19] Iteration: 12
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-18 03:25:56] Iteration: 13
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 03:26:33] Iteration: 14
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 03:27:10] Iteration: 15
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 03:27:47] Iteration: 16
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:28:23] Iteration: 17
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 03:29:00] Iteration: 18
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 03:29:37] Iteration: 19
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 03:30:14] Iteration: 20
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 03:30:51] Iteration: 21
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 03:31:27] Iteration: 22
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 03:32:04] Iteration: 23
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 03:32:41] Iteration: 24
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 03:33:18] Iteration: 25
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-18 03:33:55] Iteration: 26
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-18 03:34:32] Iteration: 27
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-18 03:35:09] Iteration: 28
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 03:35:46] Iteration: 29
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 03:36:22] Iteration: 30
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 03:36:59] Iteration: 31
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 03:37:36] Iteration: 32
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 03:38:12] Iteration: 33
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 03:38:49] Iteration: 34
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 03:39:26] Iteration: 35
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 03:40:03] Iteration: 36
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 03:40:39] Iteration: 37
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 03:41:16] Iteration: 38
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 03:41:53] Iteration: 39
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 03:42:30] Iteration: 40
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 03:43:06] Iteration: 41
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 03:43:44] Iteration: 42
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 03:44:20] Iteration: 43
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 03:44:57] Iteration: 44
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 03:45:34] Iteration: 45
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 03:46:11] Iteration: 46
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 03:46:48] Iteration: 47
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 03:47:24] Iteration: 48
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 03:48:01] Iteration: 49
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 03:48:38] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 03:48:38] Episode: 29 - done with total reward = -0.14022583
+[DRiLLS 2024-07-18 03:48:38] Episode 29 Run Time ~ -30.66129415035248 minutes.
+
+[DRiLLS 2024-07-18 03:48:38] Episode: 31
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 03:49:15] Iteration: 1
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 03:49:51] Iteration: 2
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:50:29] Iteration: 3
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:51:06] Iteration: 4
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:51:43] Iteration: 5
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:52:20] Iteration: 6
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:52:58] Iteration: 7
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:53:35] Iteration: 8
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 03:54:12] Iteration: 9
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 03:54:49] Iteration: 10
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 03:55:26] Iteration: 11
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 03:56:03] Iteration: 12
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 03:56:40] Iteration: 13
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 03:57:17] Iteration: 14
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 03:57:53] Iteration: 15
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 03:58:30] Iteration: 16
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 03:59:07] Iteration: 17
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 03:59:44] Iteration: 18
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 04:00:21] Iteration: 19
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 04:00:58] Iteration: 20
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 04:01:35] Iteration: 21
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 04:02:11] Iteration: 22
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:02:48] Iteration: 23
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:03:25] Iteration: 24
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:04:02] Iteration: 25
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:04:39] Iteration: 26
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:05:16] Iteration: 27
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:05:53] Iteration: 28
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:06:29] Iteration: 29
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:07:06] Iteration: 30
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:07:43] Iteration: 31
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:08:20] Iteration: 32
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:08:57] Iteration: 33
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:09:34] Iteration: 34
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:10:11] Iteration: 35
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:10:48] Iteration: 36
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:11:25] Iteration: 37
+Extracted power: 2.62e-06
+[DRiLLS 2024-07-18 04:12:01] Iteration: 38
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:12:38] Iteration: 39
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:13:15] Iteration: 40
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:13:52] Iteration: 41
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:14:29] Iteration: 42
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:15:05] Iteration: 43
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:15:42] Iteration: 44
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 04:16:19] Iteration: 45
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 04:16:56] Iteration: 46
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 04:17:33] Iteration: 47
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 04:18:10] Iteration: 48
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 04:18:47] Iteration: 49
+Extracted power: 3.8e-06
+[DRiLLS 2024-07-18 04:19:24] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 04:19:24] Episode: 30 - done with total reward = -0.09070812
+[DRiLLS 2024-07-18 04:19:24] Episode 30 Run Time ~ -30.76694629987081 minutes.
+
+[DRiLLS 2024-07-18 04:19:24] Episode: 32
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 04:20:01] Iteration: 1
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 04:20:38] Iteration: 2
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:21:15] Iteration: 3
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:21:51] Iteration: 4
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:22:28] Iteration: 5
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:23:05] Iteration: 6
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:23:42] Iteration: 7
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:24:18] Iteration: 8
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:24:55] Iteration: 9
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:25:32] Iteration: 10
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:26:09] Iteration: 11
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 04:26:46] Iteration: 12
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 04:27:22] Iteration: 13
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 04:27:59] Iteration: 14
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 04:28:35] Iteration: 15
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 04:29:12] Iteration: 16
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-18 04:29:49] Iteration: 17
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-18 04:30:26] Iteration: 18
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 04:31:02] Iteration: 19
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 04:31:39] Iteration: 20
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 04:32:16] Iteration: 21
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 04:32:53] Iteration: 22
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 04:33:30] Iteration: 23
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 04:34:06] Iteration: 24
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 04:34:43] Iteration: 25
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 04:35:20] Iteration: 26
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 04:35:57] Iteration: 27
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:36:34] Iteration: 28
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:37:11] Iteration: 29
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:37:48] Iteration: 30
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 04:38:25] Iteration: 31
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 04:39:01] Iteration: 32
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 04:39:38] Iteration: 33
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 04:40:15] Iteration: 34
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 04:40:52] Iteration: 35
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-18 04:41:29] Iteration: 36
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 04:42:06] Iteration: 37
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:42:43] Iteration: 38
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 04:43:20] Iteration: 39
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 04:43:57] Iteration: 40
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 04:44:34] Iteration: 41
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 04:45:11] Iteration: 42
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 04:45:48] Iteration: 43
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 04:46:25] Iteration: 44
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 04:47:02] Iteration: 45
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 04:47:39] Iteration: 46
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 04:48:16] Iteration: 47
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 04:48:53] Iteration: 48
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 04:49:30] Iteration: 49
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 04:50:07] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 04:50:07] Episode: 31 - done with total reward = -0.10452971
+[DRiLLS 2024-07-18 04:50:07] Episode 31 Run Time ~ -30.71847663720449 minutes.
+
+[DRiLLS 2024-07-18 04:50:07] Episode: 33
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 04:50:44] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-18 04:51:21] Iteration: 2
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-18 04:51:57] Iteration: 3
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 04:52:34] Iteration: 4
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 04:53:11] Iteration: 5
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 04:53:47] Iteration: 6
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 04:54:24] Iteration: 7
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 04:55:01] Iteration: 8
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 04:55:38] Iteration: 9
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 04:56:14] Iteration: 10
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 04:56:52] Iteration: 11
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-18 04:57:29] Iteration: 12
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:58:06] Iteration: 13
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:58:42] Iteration: 14
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:59:19] Iteration: 15
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 04:59:55] Iteration: 16
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:00:32] Iteration: 17
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 05:01:09] Iteration: 18
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 05:01:46] Iteration: 19
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 05:02:23] Iteration: 20
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 05:03:00] Iteration: 21
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 05:03:37] Iteration: 22
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 05:04:13] Iteration: 23
+Extracted power: 2.76e-06
+[DRiLLS 2024-07-18 05:04:50] Iteration: 24
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 05:05:27] Iteration: 25
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 05:06:04] Iteration: 26
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 05:06:41] Iteration: 27
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:07:18] Iteration: 28
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:07:55] Iteration: 29
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:08:32] Iteration: 30
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:09:09] Iteration: 31
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:09:46] Iteration: 32
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:10:22] Iteration: 33
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:10:59] Iteration: 34
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:11:36] Iteration: 35
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 05:12:13] Iteration: 36
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 05:12:49] Iteration: 37
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:13:27] Iteration: 38
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:14:03] Iteration: 39
+Extracted power: 2.89e-06
+[DRiLLS 2024-07-18 05:14:40] Iteration: 40
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 05:15:18] Iteration: 41
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 05:15:55] Iteration: 42
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 05:16:32] Iteration: 43
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 05:17:09] Iteration: 44
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 05:17:46] Iteration: 45
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-18 05:18:23] Iteration: 46
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 05:18:59] Iteration: 47
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 05:19:37] Iteration: 48
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 05:20:13] Iteration: 49
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 05:20:50] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 05:20:50] Episode: 32 - done with total reward = -0.0649046
+[DRiLLS 2024-07-18 05:20:50] Episode 32 Run Time ~ -30.719311634699505 minutes.
+
+[DRiLLS 2024-07-18 05:20:50] Episode: 34
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 05:21:27] Iteration: 1
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-18 05:22:04] Iteration: 2
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 05:22:41] Iteration: 3
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 05:23:18] Iteration: 4
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:23:55] Iteration: 5
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:24:31] Iteration: 6
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:25:08] Iteration: 7
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 05:25:45] Iteration: 8
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 05:26:21] Iteration: 9
+Extracted power: 2.55e-06
+[DRiLLS 2024-07-18 05:26:58] Iteration: 10
+Extracted power: 2.74e-06
+[DRiLLS 2024-07-18 05:27:35] Iteration: 11
+Extracted power: 2.74e-06
+[DRiLLS 2024-07-18 05:28:12] Iteration: 12
+Extracted power: 2.72e-06
+[DRiLLS 2024-07-18 05:28:49] Iteration: 13
+Extracted power: 2.73e-06
+[DRiLLS 2024-07-18 05:29:25] Iteration: 14
+Extracted power: 2.69e-06
+[DRiLLS 2024-07-18 05:30:02] Iteration: 15
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 05:30:39] Iteration: 16
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 05:31:16] Iteration: 17
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 05:31:53] Iteration: 18
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 05:32:29] Iteration: 19
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 05:33:06] Iteration: 20
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:33:43] Iteration: 21
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:34:20] Iteration: 22
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:34:57] Iteration: 23
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 05:35:34] Iteration: 24
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 05:36:11] Iteration: 25
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 05:36:48] Iteration: 26
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 05:37:25] Iteration: 27
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 05:38:02] Iteration: 28
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 05:38:39] Iteration: 29
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 05:39:16] Iteration: 30
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 05:39:53] Iteration: 31
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:40:30] Iteration: 32
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 05:41:07] Iteration: 33
+Extracted power: 2.73e-06
+[DRiLLS 2024-07-18 05:41:44] Iteration: 34
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:42:20] Iteration: 35
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:42:57] Iteration: 36
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:43:34] Iteration: 37
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 05:44:11] Iteration: 38
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 05:44:48] Iteration: 39
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 05:45:25] Iteration: 40
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 05:46:02] Iteration: 41
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 05:46:39] Iteration: 42
+Extracted power: 2.76e-06
+[DRiLLS 2024-07-18 05:47:16] Iteration: 43
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 05:47:54] Iteration: 44
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 05:48:31] Iteration: 45
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 05:49:08] Iteration: 46
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 05:49:45] Iteration: 47
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-18 05:50:22] Iteration: 48
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-18 05:51:00] Iteration: 49
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-18 05:51:38] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 05:51:38] Episode: 33 - done with total reward = -0.02243802
+[DRiLLS 2024-07-18 05:51:38] Episode 33 Run Time ~ -30.790792934099834 minutes.
+
+[DRiLLS 2024-07-18 05:51:38] Episode: 35
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 05:52:15] Iteration: 1
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 05:52:51] Iteration: 2
+Extracted power: 3.82e-06
+[DRiLLS 2024-07-18 05:53:29] Iteration: 3
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 05:54:05] Iteration: 4
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 05:54:42] Iteration: 5
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 05:55:19] Iteration: 6
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 05:55:56] Iteration: 7
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 05:56:32] Iteration: 8
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 05:57:09] Iteration: 9
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:57:46] Iteration: 10
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:58:23] Iteration: 11
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 05:59:00] Iteration: 12
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 05:59:37] Iteration: 13
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 06:00:14] Iteration: 14
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 06:00:50] Iteration: 15
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 06:01:27] Iteration: 16
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-18 06:02:04] Iteration: 17
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:02:40] Iteration: 18
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:03:17] Iteration: 19
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:03:54] Iteration: 20
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:04:30] Iteration: 21
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:05:07] Iteration: 22
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:05:44] Iteration: 23
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:06:20] Iteration: 24
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:06:57] Iteration: 25
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 06:07:34] Iteration: 26
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 06:08:11] Iteration: 27
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 06:08:48] Iteration: 28
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 06:09:24] Iteration: 29
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 06:10:01] Iteration: 30
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 06:10:38] Iteration: 31
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 06:11:15] Iteration: 32
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 06:11:51] Iteration: 33
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 06:12:28] Iteration: 34
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 06:13:05] Iteration: 35
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-18 06:13:42] Iteration: 36
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-18 06:14:20] Iteration: 37
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 06:14:56] Iteration: 38
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 06:15:33] Iteration: 39
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 06:16:10] Iteration: 40
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 06:16:47] Iteration: 41
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:17:24] Iteration: 42
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:18:01] Iteration: 43
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:18:38] Iteration: 44
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:19:16] Iteration: 45
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:19:53] Iteration: 46
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:20:31] Iteration: 47
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 06:21:08] Iteration: 48
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 06:21:45] Iteration: 49
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 06:22:21] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 06:22:21] Episode: 34 - done with total reward = -0.03354931
+[DRiLLS 2024-07-18 06:22:21] Episode 34 Run Time ~ -30.72850230137507 minutes.
+
+[DRiLLS 2024-07-18 06:22:21] Episode: 36
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:22:58] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 06:23:35] Iteration: 2
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 06:24:11] Iteration: 3
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-18 06:24:48] Iteration: 4
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 06:25:25] Iteration: 5
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 06:26:02] Iteration: 6
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 06:26:39] Iteration: 7
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 06:27:15] Iteration: 8
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-18 06:27:52] Iteration: 9
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 06:28:30] Iteration: 10
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 06:29:06] Iteration: 11
+Extracted power: 2.76e-06
+[DRiLLS 2024-07-18 06:29:43] Iteration: 12
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 06:30:21] Iteration: 13
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-18 06:30:58] Iteration: 14
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 06:31:34] Iteration: 15
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 06:32:11] Iteration: 16
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 06:32:48] Iteration: 17
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 06:33:25] Iteration: 18
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 06:34:02] Iteration: 19
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 06:34:39] Iteration: 20
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 06:35:16] Iteration: 21
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 06:35:53] Iteration: 22
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 06:36:30] Iteration: 23
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:37:07] Iteration: 24
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:37:44] Iteration: 25
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:38:21] Iteration: 26
+Extracted power: 3.85e-06
+[DRiLLS 2024-07-18 06:38:58] Iteration: 27
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 06:39:35] Iteration: 28
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:40:11] Iteration: 29
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:40:48] Iteration: 30
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:41:25] Iteration: 31
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 06:42:02] Iteration: 32
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 06:42:39] Iteration: 33
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 06:43:16] Iteration: 34
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 06:43:52] Iteration: 35
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 06:44:29] Iteration: 36
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 06:45:06] Iteration: 37
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 06:45:43] Iteration: 38
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 06:46:20] Iteration: 39
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 06:46:57] Iteration: 40
+Extracted power: 4.05e-06
+[DRiLLS 2024-07-18 06:47:34] Iteration: 41
+Extracted power: 4.36e-06
+[DRiLLS 2024-07-18 06:48:12] Iteration: 42
+Extracted power: 4.36e-06
+[DRiLLS 2024-07-18 06:48:49] Iteration: 43
+Extracted power: 4.36e-06
+[DRiLLS 2024-07-18 06:49:26] Iteration: 44
+Extracted power: 4.36e-06
+[DRiLLS 2024-07-18 06:50:03] Iteration: 45
+Extracted power: 4.36e-06
+[DRiLLS 2024-07-18 06:50:40] Iteration: 46
+Extracted power: 3.64e-06
+[DRiLLS 2024-07-18 06:51:17] Iteration: 47
+Extracted power: 3.92e-06
+[DRiLLS 2024-07-18 06:51:54] Iteration: 48
+Extracted power: 3.67e-06
+[DRiLLS 2024-07-18 06:52:31] Iteration: 49
+Extracted power: 4.06e-06
+[DRiLLS 2024-07-18 06:53:08] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 06:53:08] Episode: 35 - done with total reward = -0.045720905
+[DRiLLS 2024-07-18 06:53:08] Episode 35 Run Time ~ -30.77742786804835 minutes.
+
+[DRiLLS 2024-07-18 06:53:08] Episode: 37
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 06:53:45] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 06:54:22] Iteration: 2
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 06:54:58] Iteration: 3
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 06:55:35] Iteration: 4
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 06:56:13] Iteration: 5
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 06:56:51] Iteration: 6
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 06:57:28] Iteration: 7
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 06:58:04] Iteration: 8
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 06:58:41] Iteration: 9
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 06:59:18] Iteration: 10
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 06:59:54] Iteration: 11
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 07:00:31] Iteration: 12
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 07:01:08] Iteration: 13
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 07:01:45] Iteration: 14
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 07:02:22] Iteration: 15
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 07:02:58] Iteration: 16
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 07:03:35] Iteration: 17
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 07:04:12] Iteration: 18
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-18 07:04:49] Iteration: 19
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-18 07:05:27] Iteration: 20
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 07:06:03] Iteration: 21
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-18 07:06:40] Iteration: 22
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-18 07:07:17] Iteration: 23
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 07:07:54] Iteration: 24
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 07:08:31] Iteration: 25
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 07:09:08] Iteration: 26
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 07:09:45] Iteration: 27
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 07:10:22] Iteration: 28
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 07:10:59] Iteration: 29
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 07:11:35] Iteration: 30
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 07:12:12] Iteration: 31
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-18 07:12:49] Iteration: 32
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-18 07:13:26] Iteration: 33
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 07:14:03] Iteration: 34
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 07:14:40] Iteration: 35
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 07:15:16] Iteration: 36
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 07:15:53] Iteration: 37
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 07:16:30] Iteration: 38
+Extracted power: 3.65e-06
+[DRiLLS 2024-07-18 07:17:07] Iteration: 39
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:17:44] Iteration: 40
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:18:21] Iteration: 41
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-18 07:18:58] Iteration: 42
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-18 07:19:35] Iteration: 43
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:20:12] Iteration: 44
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 07:20:49] Iteration: 45
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 07:21:26] Iteration: 46
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 07:22:03] Iteration: 47
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 07:22:40] Iteration: 48
+Extracted power: 2.89e-06
+[DRiLLS 2024-07-18 07:23:17] Iteration: 49
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 07:23:54] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 07:23:54] Episode: 36 - done with total reward = -0.3013439
+[DRiLLS 2024-07-18 07:23:54] Episode 36 Run Time ~ -30.768899834156038 minutes.
+
+[DRiLLS 2024-07-18 07:23:54] Episode: 38
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 07:24:31] Iteration: 1
+Extracted power: 3.56e-06
+[DRiLLS 2024-07-18 07:25:08] Iteration: 2
+Extracted power: 3.83e-06
+[DRiLLS 2024-07-18 07:25:45] Iteration: 3
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 07:26:22] Iteration: 4
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 07:26:59] Iteration: 5
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 07:27:36] Iteration: 6
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 07:28:13] Iteration: 7
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 07:28:50] Iteration: 8
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 07:29:26] Iteration: 9
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 07:30:03] Iteration: 10
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 07:30:40] Iteration: 11
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 07:31:17] Iteration: 12
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 07:31:53] Iteration: 13
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 07:32:30] Iteration: 14
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 07:33:07] Iteration: 15
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 07:33:44] Iteration: 16
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 07:34:21] Iteration: 17
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 07:34:57] Iteration: 18
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 07:35:34] Iteration: 19
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 07:36:11] Iteration: 20
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 07:36:48] Iteration: 21
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 07:37:25] Iteration: 22
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 07:38:02] Iteration: 23
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 07:38:39] Iteration: 24
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 07:39:16] Iteration: 25
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 07:39:53] Iteration: 26
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 07:40:30] Iteration: 27
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:41:07] Iteration: 28
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:41:44] Iteration: 29
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:42:21] Iteration: 30
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 07:42:58] Iteration: 31
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 07:43:35] Iteration: 32
+Extracted power: 3.76e-06
+[DRiLLS 2024-07-18 07:44:11] Iteration: 33
+Extracted power: 3.72e-06
+[DRiLLS 2024-07-18 07:44:48] Iteration: 34
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 07:45:25] Iteration: 35
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 07:46:02] Iteration: 36
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 07:46:40] Iteration: 37
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 07:47:16] Iteration: 38
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 07:47:53] Iteration: 39
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 07:48:30] Iteration: 40
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 07:49:07] Iteration: 41
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-18 07:49:44] Iteration: 42
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 07:50:21] Iteration: 43
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 07:50:58] Iteration: 44
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 07:51:35] Iteration: 45
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 07:52:12] Iteration: 46
+Extracted power: 4.3e-06
+[DRiLLS 2024-07-18 07:52:49] Iteration: 47
+Extracted power: 4.3e-06
+[DRiLLS 2024-07-18 07:53:26] Iteration: 48
+Extracted power: 4.3e-06
+[DRiLLS 2024-07-18 07:54:03] Iteration: 49
+Extracted power: 4.3e-06
+[DRiLLS 2024-07-18 07:54:40] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 07:54:40] Episode: 37 - done with total reward = -0.09805566
+[DRiLLS 2024-07-18 07:54:40] Episode 37 Run Time ~ -30.766255033016204 minutes.
+
+[DRiLLS 2024-07-18 07:54:40] Episode: 39
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 07:55:17] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 07:55:54] Iteration: 2
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 07:56:31] Iteration: 3
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 07:57:08] Iteration: 4
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 07:57:45] Iteration: 5
+Extracted power: 2.68e-06
+[DRiLLS 2024-07-18 07:58:22] Iteration: 6
+Extracted power: 2.68e-06
+[DRiLLS 2024-07-18 07:58:58] Iteration: 7
+Extracted power: 2.68e-06
+[DRiLLS 2024-07-18 07:59:35] Iteration: 8
+Extracted power: 2.68e-06
+[DRiLLS 2024-07-18 08:00:12] Iteration: 9
+Extracted power: 2.68e-06
+[DRiLLS 2024-07-18 08:00:49] Iteration: 10
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 08:01:25] Iteration: 11
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 08:02:02] Iteration: 12
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 08:02:39] Iteration: 13
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 08:03:16] Iteration: 14
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 08:03:53] Iteration: 15
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 08:04:30] Iteration: 16
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 08:05:07] Iteration: 17
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 08:05:44] Iteration: 18
+Extracted power: 3.54e-06
+[DRiLLS 2024-07-18 08:06:20] Iteration: 19
+Extracted power: 3.51e-06
+[DRiLLS 2024-07-18 08:06:58] Iteration: 20
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 08:07:34] Iteration: 21
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 08:08:11] Iteration: 22
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 08:08:48] Iteration: 23
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 08:09:24] Iteration: 24
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 08:10:01] Iteration: 25
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 08:10:38] Iteration: 26
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 08:11:15] Iteration: 27
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 08:11:53] Iteration: 28
+Extracted power: 3.45e-06
+[DRiLLS 2024-07-18 08:12:31] Iteration: 29
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-18 08:13:08] Iteration: 30
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 08:13:45] Iteration: 31
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 08:14:22] Iteration: 32
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 08:14:59] Iteration: 33
+Extracted power: 2.79e-06
+[DRiLLS 2024-07-18 08:15:36] Iteration: 34
+Extracted power: 2.79e-06
+[DRiLLS 2024-07-18 08:16:13] Iteration: 35
+Extracted power: 2.79e-06
+[DRiLLS 2024-07-18 08:16:52] Iteration: 36
+Extracted power: 2.79e-06
+[DRiLLS 2024-07-18 08:17:29] Iteration: 37
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 08:18:06] Iteration: 38
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:18:43] Iteration: 39
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:19:21] Iteration: 40
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:19:58] Iteration: 41
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:20:35] Iteration: 42
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:21:12] Iteration: 43
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:21:49] Iteration: 44
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:22:26] Iteration: 45
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:23:03] Iteration: 46
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:23:40] Iteration: 47
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:24:17] Iteration: 48
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 08:24:53] Iteration: 49
+Extracted power: 2.78e-06
+[DRiLLS 2024-07-18 08:25:30] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 08:25:30] Episode: 38 - done with total reward = -0.11127834
+[DRiLLS 2024-07-18 08:25:30] Episode 38 Run Time ~ -30.832414865493774 minutes.
+
+[DRiLLS 2024-07-18 08:25:30] Episode: 40
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 08:26:07] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 08:26:44] Iteration: 2
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 08:27:20] Iteration: 3
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:27:57] Iteration: 4
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:28:34] Iteration: 5
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:29:11] Iteration: 6
+Extracted power: 2.73e-06
+[DRiLLS 2024-07-18 08:29:47] Iteration: 7
+Extracted power: 2.87e-06
+[DRiLLS 2024-07-18 08:30:24] Iteration: 8
+Extracted power: 2.87e-06
+[DRiLLS 2024-07-18 08:31:01] Iteration: 9
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 08:31:38] Iteration: 10
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 08:32:15] Iteration: 11
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-18 08:32:52] Iteration: 12
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 08:33:29] Iteration: 13
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 08:34:06] Iteration: 14
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:34:42] Iteration: 15
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:35:19] Iteration: 16
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:35:56] Iteration: 17
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:36:33] Iteration: 18
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 08:37:10] Iteration: 19
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 08:37:47] Iteration: 20
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 08:38:24] Iteration: 21
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 08:39:01] Iteration: 22
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 08:39:38] Iteration: 23
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 08:40:14] Iteration: 24
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 08:40:51] Iteration: 25
+Extracted power: 2.89e-06
+[DRiLLS 2024-07-18 08:41:28] Iteration: 26
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:42:05] Iteration: 27
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:42:42] Iteration: 28
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:43:19] Iteration: 29
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:43:56] Iteration: 30
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:44:33] Iteration: 31
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:45:10] Iteration: 32
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:45:47] Iteration: 33
+Extracted power: 3.93e-06
+[DRiLLS 2024-07-18 08:46:24] Iteration: 34
+Extracted power: 3.76e-06
+[DRiLLS 2024-07-18 08:47:02] Iteration: 35
+Extracted power: 3.76e-06
+[DRiLLS 2024-07-18 08:47:39] Iteration: 36
+Extracted power: 3.76e-06
+[DRiLLS 2024-07-18 08:48:17] Iteration: 37
+Extracted power: 3.76e-06
+[DRiLLS 2024-07-18 08:48:54] Iteration: 38
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 08:49:31] Iteration: 39
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 08:50:08] Iteration: 40
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 08:50:45] Iteration: 41
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 08:51:21] Iteration: 42
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 08:51:58] Iteration: 43
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 08:52:35] Iteration: 44
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 08:53:12] Iteration: 45
+Extracted power: 3.7e-06
+[DRiLLS 2024-07-18 08:53:49] Iteration: 46
+Extracted power: 3.59e-06
+[DRiLLS 2024-07-18 08:54:26] Iteration: 47
+Extracted power: 3.87e-06
+[DRiLLS 2024-07-18 08:55:03] Iteration: 48
+Extracted power: 3.33e-06
+[DRiLLS 2024-07-18 08:55:40] Iteration: 49
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 08:56:17] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 08:56:17] Episode: 39 - done with total reward = -0.044616017
+[DRiLLS 2024-07-18 08:56:17] Episode 39 Run Time ~ -30.77346033255259 minutes.
+
+[DRiLLS 2024-07-18 08:56:17] Episode: 41
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 08:56:54] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-18 08:57:30] Iteration: 2
+Extracted power: 2.96e-06
+[DRiLLS 2024-07-18 08:58:07] Iteration: 3
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-18 08:58:44] Iteration: 4
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 08:59:20] Iteration: 5
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 08:59:57] Iteration: 6
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 09:00:34] Iteration: 7
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 09:01:11] Iteration: 8
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 09:01:47] Iteration: 9
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 09:02:24] Iteration: 10
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 09:03:01] Iteration: 11
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 09:03:38] Iteration: 12
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 09:04:14] Iteration: 13
+Extracted power: 2.71e-06
+[DRiLLS 2024-07-18 09:04:51] Iteration: 14
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 09:05:27] Iteration: 15
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 09:06:04] Iteration: 16
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 09:06:41] Iteration: 17
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 09:07:18] Iteration: 18
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 09:07:54] Iteration: 19
+Extracted power: 2.83e-06
+[DRiLLS 2024-07-18 09:08:31] Iteration: 20
+Extracted power: 2.71e-06
+[DRiLLS 2024-07-18 09:09:08] Iteration: 21
+Extracted power: 2.75e-06
+[DRiLLS 2024-07-18 09:09:44] Iteration: 22
+Extracted power: 2.75e-06
+[DRiLLS 2024-07-18 09:10:21] Iteration: 23
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 09:10:58] Iteration: 24
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 09:11:34] Iteration: 25
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 09:12:11] Iteration: 26
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 09:12:48] Iteration: 27
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 09:13:24] Iteration: 28
+Extracted power: 2.76e-06
+[DRiLLS 2024-07-18 09:14:01] Iteration: 29
+Extracted power: 2.76e-06
+[DRiLLS 2024-07-18 09:14:38] Iteration: 30
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 09:15:15] Iteration: 31
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 09:15:52] Iteration: 32
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 09:16:28] Iteration: 33
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 09:17:06] Iteration: 34
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 09:17:42] Iteration: 35
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 09:18:19] Iteration: 36
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-18 09:18:56] Iteration: 37
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 09:19:33] Iteration: 38
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 09:20:09] Iteration: 39
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 09:20:47] Iteration: 40
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 09:21:24] Iteration: 41
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:22:01] Iteration: 42
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:22:37] Iteration: 43
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:23:14] Iteration: 44
+Extracted power: 2.87e-06
+[DRiLLS 2024-07-18 09:23:51] Iteration: 45
+Extracted power: 2.87e-06
+[DRiLLS 2024-07-18 09:24:28] Iteration: 46
+Extracted power: 2.87e-06
+[DRiLLS 2024-07-18 09:25:04] Iteration: 47
+Extracted power: 3.11e-06
+[DRiLLS 2024-07-18 09:25:41] Iteration: 48
+Extracted power: 4.14e-06
+[DRiLLS 2024-07-18 09:26:18] Iteration: 49
+Extracted power: 3.62e-06
+[DRiLLS 2024-07-18 09:26:56] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 09:26:56] Episode: 40 - done with total reward = -0.11398436
+[DRiLLS 2024-07-18 09:26:56] Episode 40 Run Time ~ -30.65530386765798 minutes.
+
+[DRiLLS 2024-07-18 09:26:56] Episode: 42
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 09:27:33] Iteration: 1
+Extracted power: 2.6e-06
+[DRiLLS 2024-07-18 09:28:09] Iteration: 2
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 09:28:46] Iteration: 3
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 09:29:23] Iteration: 4
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 09:29:59] Iteration: 5
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 09:30:36] Iteration: 6
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 09:31:13] Iteration: 7
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 09:31:50] Iteration: 8
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 09:32:27] Iteration: 9
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 09:33:04] Iteration: 10
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 09:33:40] Iteration: 11
+Extracted power: 3.12e-06
+[DRiLLS 2024-07-18 09:34:17] Iteration: 12
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 09:34:54] Iteration: 13
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 09:35:31] Iteration: 14
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 09:36:08] Iteration: 15
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 09:36:45] Iteration: 16
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 09:37:22] Iteration: 17
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:37:58] Iteration: 18
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:38:35] Iteration: 19
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:39:11] Iteration: 20
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:39:48] Iteration: 21
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:40:25] Iteration: 22
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:41:02] Iteration: 23
+Extracted power: 2.85e-06
+[DRiLLS 2024-07-18 09:41:38] Iteration: 24
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 09:42:15] Iteration: 25
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 09:42:52] Iteration: 26
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 09:43:29] Iteration: 27
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 09:44:05] Iteration: 28
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 09:44:43] Iteration: 29
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 09:45:20] Iteration: 30
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 09:45:57] Iteration: 31
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 09:46:35] Iteration: 32
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 09:47:13] Iteration: 33
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 09:47:51] Iteration: 34
+Extracted power: 3.88e-06
+[DRiLLS 2024-07-18 09:48:28] Iteration: 35
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 09:49:05] Iteration: 36
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-18 09:49:42] Iteration: 37
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-18 09:50:19] Iteration: 38
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 09:50:56] Iteration: 39
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 09:51:32] Iteration: 40
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 09:52:09] Iteration: 41
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 09:52:46] Iteration: 42
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 09:53:23] Iteration: 43
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 09:54:00] Iteration: 44
+Extracted power: 3.61e-06
+[DRiLLS 2024-07-18 09:54:37] Iteration: 45
+Extracted power: 3.67e-06
+[DRiLLS 2024-07-18 09:55:14] Iteration: 46
+Extracted power: 3.88e-06
+[DRiLLS 2024-07-18 09:55:51] Iteration: 47
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 09:56:28] Iteration: 48
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 09:57:05] Iteration: 49
+Extracted power: 4.11e-06
+[DRiLLS 2024-07-18 09:57:43] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 09:57:43] Episode: 41 - done with total reward = -0.035355926
+[DRiLLS 2024-07-18 09:57:43] Episode 41 Run Time ~ -30.776613946755727 minutes.
+
+[DRiLLS 2024-07-18 09:57:43] Episode: 43
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 09:58:19] Iteration: 1
+Extracted power: 3.55e-06
+[DRiLLS 2024-07-18 09:58:56] Iteration: 2
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 09:59:33] Iteration: 3
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 10:00:10] Iteration: 4
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 10:00:47] Iteration: 5
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 10:01:23] Iteration: 6
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 10:02:01] Iteration: 7
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 10:02:37] Iteration: 8
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:03:14] Iteration: 9
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:03:51] Iteration: 10
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:04:27] Iteration: 11
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:05:04] Iteration: 12
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:05:41] Iteration: 13
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:06:18] Iteration: 14
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:06:55] Iteration: 15
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:07:31] Iteration: 16
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:08:08] Iteration: 17
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:08:45] Iteration: 18
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:09:21] Iteration: 19
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:09:58] Iteration: 20
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:10:35] Iteration: 21
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:11:12] Iteration: 22
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 10:11:49] Iteration: 23
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 10:12:26] Iteration: 24
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 10:13:03] Iteration: 25
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 10:13:40] Iteration: 26
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 10:14:17] Iteration: 27
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 10:14:54] Iteration: 28
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 10:15:31] Iteration: 29
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 10:16:08] Iteration: 30
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 10:16:45] Iteration: 31
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 10:17:22] Iteration: 32
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 10:17:59] Iteration: 33
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 10:18:36] Iteration: 34
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 10:19:13] Iteration: 35
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 10:19:50] Iteration: 36
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 10:20:27] Iteration: 37
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 10:21:04] Iteration: 38
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 10:21:40] Iteration: 39
+Extracted power: 3.09e-06
+[DRiLLS 2024-07-18 10:22:17] Iteration: 40
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 10:22:54] Iteration: 41
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 10:23:30] Iteration: 42
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 10:24:07] Iteration: 43
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 10:24:44] Iteration: 44
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 10:25:21] Iteration: 45
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-18 10:25:58] Iteration: 46
+Extracted power: 2.81e-06
+[DRiLLS 2024-07-18 10:26:35] Iteration: 47
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 10:27:12] Iteration: 48
+Extracted power: 2.77e-06
+[DRiLLS 2024-07-18 10:27:52] Iteration: 49
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 10:28:31] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 10:28:31] Episode: 42 - done with total reward = -0.054559305
+[DRiLLS 2024-07-18 10:28:31] Episode 42 Run Time ~ -30.802847782770794 minutes.
+
+[DRiLLS 2024-07-18 10:28:31] Episode: 44
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 10:29:10] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 10:29:48] Iteration: 2
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 10:30:26] Iteration: 3
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 10:31:05] Iteration: 4
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 10:31:46] Iteration: 5
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:32:26] Iteration: 6
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:33:04] Iteration: 7
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:33:42] Iteration: 8
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:34:19] Iteration: 9
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 10:34:56] Iteration: 10
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 10:35:34] Iteration: 11
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 10:36:11] Iteration: 12
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 10:36:49] Iteration: 13
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 10:37:27] Iteration: 14
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 10:38:05] Iteration: 15
+Extracted power: 3.92e-06
+[DRiLLS 2024-07-18 10:38:43] Iteration: 16
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 10:39:20] Iteration: 17
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 10:39:57] Iteration: 18
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 10:40:36] Iteration: 19
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 10:41:15] Iteration: 20
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 10:41:52] Iteration: 21
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 10:42:30] Iteration: 22
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 10:43:08] Iteration: 23
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:43:49] Iteration: 24
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:44:31] Iteration: 25
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:45:10] Iteration: 26
+Extracted power: 3.32e-06
+[DRiLLS 2024-07-18 10:45:49] Iteration: 27
+Extracted power: 3.36e-06
+[DRiLLS 2024-07-18 10:46:29] Iteration: 28
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 10:47:11] Iteration: 29
+Extracted power: 3.77e-06
+[DRiLLS 2024-07-18 10:47:50] Iteration: 30
+Extracted power: 3.58e-06
+[DRiLLS 2024-07-18 10:48:29] Iteration: 31
+Extracted power: 3.78e-06
+[DRiLLS 2024-07-18 10:49:08] Iteration: 32
+Extracted power: 3.38e-06
+[DRiLLS 2024-07-18 10:49:47] Iteration: 33
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 10:50:27] Iteration: 34
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 10:51:04] Iteration: 35
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:51:42] Iteration: 36
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:52:21] Iteration: 37
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:53:01] Iteration: 38
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:53:41] Iteration: 39
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:54:21] Iteration: 40
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 10:55:01] Iteration: 41
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 10:55:40] Iteration: 42
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 10:56:19] Iteration: 43
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 10:56:58] Iteration: 44
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:57:36] Iteration: 45
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 10:58:13] Iteration: 46
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 10:58:50] Iteration: 47
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 10:59:28] Iteration: 48
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 11:00:05] Iteration: 49
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 11:00:42] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 11:00:42] Episode: 43 - done with total reward = -0.24243562
+[DRiLLS 2024-07-18 11:00:42] Episode 43 Run Time ~ -32.190674869219464 minutes.
+
+[DRiLLS 2024-07-18 11:00:42] Episode: 45
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 11:01:20] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 11:01:57] Iteration: 2
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 11:02:34] Iteration: 3
+Extracted power: 3.05e-06
+[DRiLLS 2024-07-18 11:03:11] Iteration: 4
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 11:03:49] Iteration: 5
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 11:04:26] Iteration: 6
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 11:05:03] Iteration: 7
+Extracted power: 2.64e-06
+[DRiLLS 2024-07-18 11:05:40] Iteration: 8
+Extracted power: 2.64e-06
+[DRiLLS 2024-07-18 11:06:17] Iteration: 9
+Extracted power: 2.48e-06
+[DRiLLS 2024-07-18 11:06:54] Iteration: 10
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:07:32] Iteration: 11
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:08:11] Iteration: 12
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:08:49] Iteration: 13
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:09:26] Iteration: 14
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 11:10:03] Iteration: 15
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:10:41] Iteration: 16
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:11:18] Iteration: 17
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:11:56] Iteration: 18
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 11:12:33] Iteration: 19
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 11:13:10] Iteration: 20
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 11:13:47] Iteration: 21
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 11:14:24] Iteration: 22
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 11:15:01] Iteration: 23
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:15:39] Iteration: 24
+Extracted power: 3.43e-06
+[DRiLLS 2024-07-18 11:16:16] Iteration: 25
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 11:16:53] Iteration: 26
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 11:17:30] Iteration: 27
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 11:18:07] Iteration: 28
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 11:18:44] Iteration: 29
+Extracted power: 3.19e-06
+[DRiLLS 2024-07-18 11:19:21] Iteration: 30
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 11:19:58] Iteration: 31
+Extracted power: 3.17e-06
+[DRiLLS 2024-07-18 11:20:35] Iteration: 32
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 11:21:12] Iteration: 33
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 11:21:49] Iteration: 34
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 11:22:26] Iteration: 35
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 11:23:04] Iteration: 36
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 11:23:41] Iteration: 37
+Extracted power: 2.92e-06
+[DRiLLS 2024-07-18 11:24:18] Iteration: 38
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 11:24:55] Iteration: 39
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 11:25:32] Iteration: 40
+Extracted power: 2.8e-06
+[DRiLLS 2024-07-18 11:26:10] Iteration: 41
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 11:26:47] Iteration: 42
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 11:27:24] Iteration: 43
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 11:28:02] Iteration: 44
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 11:28:41] Iteration: 45
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 11:29:20] Iteration: 46
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 11:29:57] Iteration: 47
+Extracted power: 2.98e-06
+[DRiLLS 2024-07-18 11:30:35] Iteration: 48
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 11:31:12] Iteration: 49
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 11:31:49] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 11:31:49] Episode: 44 - done with total reward = -0.05872348
+[DRiLLS 2024-07-18 11:31:49] Episode 44 Run Time ~ -31.121527914206187 minutes.
+
+[DRiLLS 2024-07-18 11:31:49] Episode: 46
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 11:32:27] Iteration: 1
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 11:33:04] Iteration: 2
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 11:33:41] Iteration: 3
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 11:34:17] Iteration: 4
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 11:34:54] Iteration: 5
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 11:35:31] Iteration: 6
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-18 11:36:09] Iteration: 7
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 11:36:45] Iteration: 8
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 11:37:22] Iteration: 9
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 11:37:59] Iteration: 10
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 11:38:36] Iteration: 11
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 11:39:13] Iteration: 12
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 11:39:50] Iteration: 13
+Extracted power: 3.48e-06
+[DRiLLS 2024-07-18 11:40:27] Iteration: 14
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 11:41:04] Iteration: 15
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 11:41:41] Iteration: 16
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 11:42:20] Iteration: 17
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 11:42:57] Iteration: 18
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 11:43:35] Iteration: 19
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 11:44:12] Iteration: 20
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 11:44:49] Iteration: 21
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 11:45:27] Iteration: 22
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-18 11:46:04] Iteration: 23
+Extracted power: 3.81e-06
+[DRiLLS 2024-07-18 11:46:42] Iteration: 24
+Extracted power: 3.14e-06
+[DRiLLS 2024-07-18 11:47:19] Iteration: 25
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 11:47:57] Iteration: 26
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 11:48:37] Iteration: 27
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 11:49:16] Iteration: 28
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 11:49:53] Iteration: 29
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 11:50:31] Iteration: 30
+Extracted power: 3.74e-06
+[DRiLLS 2024-07-18 11:51:08] Iteration: 31
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 11:51:45] Iteration: 32
+Extracted power: 3.34e-06
+[DRiLLS 2024-07-18 11:52:22] Iteration: 33
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-18 11:52:59] Iteration: 34
+Extracted power: 3.52e-06
+[DRiLLS 2024-07-18 11:53:37] Iteration: 35
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 11:54:14] Iteration: 36
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 11:54:50] Iteration: 37
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 11:55:28] Iteration: 38
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 11:56:04] Iteration: 39
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 11:56:43] Iteration: 40
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 11:57:20] Iteration: 41
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 11:57:57] Iteration: 42
+Extracted power: 3.13e-06
+[DRiLLS 2024-07-18 11:58:35] Iteration: 43
+Extracted power: 3.02e-06
+[DRiLLS 2024-07-18 11:59:13] Iteration: 44
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 11:59:51] Iteration: 45
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 12:00:28] Iteration: 46
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 12:01:06] Iteration: 47
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 12:01:43] Iteration: 48
+Extracted power: 3.46e-06
+[DRiLLS 2024-07-18 12:02:21] Iteration: 49
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 12:02:59] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 12:02:59] Episode: 45 - done with total reward = -0.076392844
+[DRiLLS 2024-07-18 12:02:59] Episode 45 Run Time ~ -31.153192249933877 minutes.
+
+[DRiLLS 2024-07-18 12:02:59] Episode: 47
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 12:03:36] Iteration: 1
+Extracted power: 3.3e-06
+[DRiLLS 2024-07-18 12:04:13] Iteration: 2
+Extracted power: 3.35e-06
+[DRiLLS 2024-07-18 12:04:50] Iteration: 3
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 12:05:27] Iteration: 4
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 12:06:06] Iteration: 5
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 12:06:43] Iteration: 6
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-18 12:07:21] Iteration: 7
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-18 12:07:59] Iteration: 8
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-18 12:08:37] Iteration: 9
+Extracted power: 3.9e-06
+[DRiLLS 2024-07-18 12:09:15] Iteration: 10
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 12:09:52] Iteration: 11
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 12:10:29] Iteration: 12
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 12:11:07] Iteration: 13
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 12:11:44] Iteration: 14
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 12:12:21] Iteration: 15
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 12:12:58] Iteration: 16
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 12:13:35] Iteration: 17
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 12:14:13] Iteration: 18
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 12:14:50] Iteration: 19
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 12:15:28] Iteration: 20
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 12:16:05] Iteration: 21
+Extracted power: 3.57e-06
+[DRiLLS 2024-07-18 12:16:42] Iteration: 22
+Extracted power: 2.91e-06
+[DRiLLS 2024-07-18 12:17:20] Iteration: 23
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 12:17:57] Iteration: 24
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 12:18:35] Iteration: 25
+Extracted power: 3.37e-06
+[DRiLLS 2024-07-18 12:19:12] Iteration: 26
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 12:19:49] Iteration: 27
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 12:20:27] Iteration: 28
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 12:21:04] Iteration: 29
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 12:21:41] Iteration: 30
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 12:22:19] Iteration: 31
+Extracted power: 3.49e-06
+[DRiLLS 2024-07-18 12:22:57] Iteration: 32
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 12:23:34] Iteration: 33
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 12:24:11] Iteration: 34
+Extracted power: 3.04e-06
+[DRiLLS 2024-07-18 12:24:48] Iteration: 35
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 12:25:25] Iteration: 36
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 12:26:03] Iteration: 37
+Extracted power: 3.27e-06
+[DRiLLS 2024-07-18 12:26:40] Iteration: 38
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-18 12:27:18] Iteration: 39
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-18 12:27:55] Iteration: 40
+Extracted power: 2.65e-06
+[DRiLLS 2024-07-18 12:28:32] Iteration: 41
+Extracted power: 3.06e-06
+[DRiLLS 2024-07-18 12:29:10] Iteration: 42
+Extracted power: 2.94e-06
+[DRiLLS 2024-07-18 12:29:47] Iteration: 43
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 12:30:24] Iteration: 44
+Extracted power: 2.99e-06
+[DRiLLS 2024-07-18 12:31:01] Iteration: 45
+Extracted power: 2.7e-06
+[DRiLLS 2024-07-18 12:31:43] Iteration: 46
+Extracted power: 3.18e-06
+[DRiLLS 2024-07-18 12:32:21] Iteration: 47
+Extracted power: 2.93e-06
+[DRiLLS 2024-07-18 12:32:58] Iteration: 48
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-18 12:33:35] Iteration: 49
+Extracted power: 3.44e-06
+[DRiLLS 2024-07-18 12:34:13] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 12:34:13] Episode: 46 - done with total reward = -0.16386531
+[DRiLLS 2024-07-18 12:34:13] Episode 46 Run Time ~ -31.2320237159729 minutes.
+
+[DRiLLS 2024-07-18 12:34:13] Episode: 48
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 12:34:49] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 12:35:26] Iteration: 2
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 12:36:03] Iteration: 3
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 12:36:40] Iteration: 4
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 12:37:17] Iteration: 5
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 12:37:54] Iteration: 6
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 12:38:31] Iteration: 7
+Extracted power: 2.97e-06
+[DRiLLS 2024-07-18 12:39:08] Iteration: 8
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 12:39:44] Iteration: 9
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:40:21] Iteration: 10
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:40:58] Iteration: 11
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:41:35] Iteration: 12
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 12:42:12] Iteration: 13
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 12:42:49] Iteration: 14
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 12:43:26] Iteration: 15
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 12:44:03] Iteration: 16
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:44:40] Iteration: 17
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:45:17] Iteration: 18
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:45:54] Iteration: 19
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:46:31] Iteration: 20
+Extracted power: 2.95e-06
+[DRiLLS 2024-07-18 12:47:07] Iteration: 21
+Extracted power: 2.86e-06
+[DRiLLS 2024-07-18 12:47:44] Iteration: 22
+Extracted power: 3.53e-06
+[DRiLLS 2024-07-18 12:48:21] Iteration: 23
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 12:48:58] Iteration: 24
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 12:49:35] Iteration: 25
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 12:50:13] Iteration: 26
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 12:50:49] Iteration: 27
+Extracted power: 3.6e-06
+[DRiLLS 2024-07-18 12:51:26] Iteration: 28
+Extracted power: 3.66e-06
+[DRiLLS 2024-07-18 12:52:03] Iteration: 29
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-18 12:52:41] Iteration: 30
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-18 12:53:38] Iteration: 31
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-18 12:54:45] Iteration: 32
+Extracted power: 3.63e-06
+[DRiLLS 2024-07-18 12:55:53] Iteration: 33
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 12:57:01] Iteration: 34
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 12:58:08] Iteration: 35
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 12:59:15] Iteration: 36
+Extracted power: 3.03e-06
+[DRiLLS 2024-07-18 13:00:22] Iteration: 37
+Extracted power: 3.01e-06
+[DRiLLS 2024-07-18 13:01:29] Iteration: 38
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 13:02:36] Iteration: 39
+Extracted power: 3.2e-06
+[DRiLLS 2024-07-18 13:03:44] Iteration: 40
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 13:04:51] Iteration: 41
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 13:05:58] Iteration: 42
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:07:05] Iteration: 43
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:08:12] Iteration: 44
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:09:19] Iteration: 45
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:10:26] Iteration: 46
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:11:33] Iteration: 47
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:12:40] Iteration: 48
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:13:47] Iteration: 49
+Extracted power: 3.1e-06
+[DRiLLS 2024-07-18 13:14:55] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 13:14:55] Episode: 47 - done with total reward = -0.20838496
+[DRiLLS 2024-07-18 13:14:55] Episode 47 Run Time ~ -40.70757903258006 minutes.
+
+[DRiLLS 2024-07-18 13:14:55] Episode: 49
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 13:16:02] Iteration: 1
+Extracted power: 3.15e-06
+[DRiLLS 2024-07-18 13:17:17] Iteration: 2
+Extracted power: 3.47e-06
+[DRiLLS 2024-07-18 13:17:57] Iteration: 3
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:33:38] Iteration: 4
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:34:17] Iteration: 5
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:34:56] Iteration: 6
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 14:35:35] Iteration: 7
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 14:36:15] Iteration: 8
+Extracted power: 3.5e-06
+[DRiLLS 2024-07-18 14:36:55] Iteration: 9
+Extracted power: 3.26e-06
+[DRiLLS 2024-07-18 14:37:35] Iteration: 10
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:38:13] Iteration: 11
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:38:49] Iteration: 12
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:39:26] Iteration: 13
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:40:03] Iteration: 14
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:40:40] Iteration: 15
+Extracted power: 2.67e-06
+[DRiLLS 2024-07-18 14:41:17] Iteration: 16
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:41:55] Iteration: 17
+Extracted power: 3.25e-06
+[DRiLLS 2024-07-18 14:42:32] Iteration: 18
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 14:43:10] Iteration: 19
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 14:43:47] Iteration: 20
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:44:24] Iteration: 21
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:45:02] Iteration: 22
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:45:38] Iteration: 23
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:46:15] Iteration: 24
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 14:46:52] Iteration: 25
+Extracted power: 3.07e-06
+[DRiLLS 2024-07-18 14:47:29] Iteration: 26
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 14:48:07] Iteration: 27
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 14:48:44] Iteration: 28
+Extracted power: 3.42e-06
+[DRiLLS 2024-07-18 14:49:21] Iteration: 29
+Extracted power: 3.97e-06
+[DRiLLS 2024-07-18 14:50:00] Iteration: 30
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 14:50:39] Iteration: 31
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 14:51:16] Iteration: 32
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 14:51:54] Iteration: 33
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 14:52:31] Iteration: 34
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 14:53:08] Iteration: 35
+Extracted power: 3.4e-06
+[DRiLLS 2024-07-18 14:53:46] Iteration: 36
+Extracted power: 3.73e-06
+[DRiLLS 2024-07-18 14:54:23] Iteration: 37
+Extracted power: 3.08e-06
+[DRiLLS 2024-07-18 14:55:00] Iteration: 38
+Extracted power: 2.73e-06
+[DRiLLS 2024-07-18 14:55:37] Iteration: 39
+Extracted power: 2.82e-06
+[DRiLLS 2024-07-18 14:56:15] Iteration: 40
+Extracted power: 2.76e-06
+[DRiLLS 2024-07-18 14:56:52] Iteration: 41
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 14:57:29] Iteration: 42
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 14:58:06] Iteration: 43
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 14:58:43] Iteration: 44
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 14:59:20] Iteration: 45
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 14:59:57] Iteration: 46
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 15:00:35] Iteration: 47
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 15:01:14] Iteration: 48
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 15:01:52] Iteration: 49
+Extracted power: 3.22e-06
+[DRiLLS 2024-07-18 15:02:29] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 15:02:29] Episode: 48 - done with total reward = -0.048653185
+[DRiLLS 2024-07-18 15:02:29] Episode 48 Run Time ~ -107.57254091501235 minutes.
+
+[DRiLLS 2024-07-18 15:02:29] Episode: 50
+Extracted power: 3.31e-06
+[DRiLLS 2024-07-18 15:03:07] Iteration: 1
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 15:03:48] Iteration: 2
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 15:04:27] Iteration: 3
+Extracted power: 3.29e-06
+[DRiLLS 2024-07-18 15:05:04] Iteration: 4
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 15:05:41] Iteration: 5
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 15:06:20] Iteration: 6
+Extracted power: 3.24e-06
+[DRiLLS 2024-07-18 15:06:58] Iteration: 7
+Extracted power: 3.23e-06
+[DRiLLS 2024-07-18 15:07:38] Iteration: 8
+Extracted power: 3.71e-06
+[DRiLLS 2024-07-18 15:08:15] Iteration: 9
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:08:53] Iteration: 10
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:09:31] Iteration: 11
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:10:10] Iteration: 12
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:10:47] Iteration: 13
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:11:24] Iteration: 14
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:12:03] Iteration: 15
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:12:40] Iteration: 16
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:13:18] Iteration: 17
+Extracted power: 3.28e-06
+[DRiLLS 2024-07-18 15:13:57] Iteration: 18
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 15:14:37] Iteration: 19
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 15:15:16] Iteration: 20
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 15:15:55] Iteration: 21
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 15:16:35] Iteration: 22
+Extracted power: 3.39e-06
+[DRiLLS 2024-07-18 15:17:13] Iteration: 23
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 15:17:50] Iteration: 24
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 15:18:28] Iteration: 25
+Extracted power: 3.41e-06
+[DRiLLS 2024-07-18 15:19:05] Iteration: 26
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:19:43] Iteration: 27
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:20:21] Iteration: 28
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:21:01] Iteration: 29
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:21:39] Iteration: 30
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:22:17] Iteration: 31
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:22:57] Iteration: 32
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:23:35] Iteration: 33
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:24:12] Iteration: 34
+Extracted power: 2.88e-06
+[DRiLLS 2024-07-18 15:24:49] Iteration: 35
+Extracted power: 3.21e-06
+[DRiLLS 2024-07-18 15:25:27] Iteration: 36
+Extracted power: 2.9e-06
+[DRiLLS 2024-07-18 15:26:04] Iteration: 37
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:26:41] Iteration: 38
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:27:18] Iteration: 39
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:27:56] Iteration: 40
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:28:33] Iteration: 41
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 15:29:10] Iteration: 42
+Extracted power: 3.16e-06
+[DRiLLS 2024-07-18 15:29:47] Iteration: 43
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:30:24] Iteration: 44
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:31:01] Iteration: 45
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:31:40] Iteration: 46
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:32:19] Iteration: 47
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:32:56] Iteration: 48
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:33:34] Iteration: 49
+Extracted power: 3e-06
+[DRiLLS 2024-07-18 15:34:11] Model saved in path: /Users/evan/Documents/Drills/DRiLLS/model/model.ckpt
+[DRiLLS 2024-07-18 15:34:11] Episode: 49 - done with total reward = -0.12953529
+[DRiLLS 2024-07-18 15:34:11] Episode 49 Run Time ~ -31.6988099972407 minutes.
+
+[DRiLLS 2024-07-18 15:34:11] Total Training Run Time ~ 1631.3161103328068 minutes.

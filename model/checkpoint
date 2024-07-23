@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/evan/Documents/Drills/DRiLLS/model/model.ckpt"
+all_model_checkpoint_paths: "/Users/evan/Documents/Drills/DRiLLS/model/model.ckpt"

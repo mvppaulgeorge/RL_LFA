@@ -1,0 +1,18 @@
+    ____  ____  _ __    __   _____
+   / __ \/ __ \(_) /   / /  / ___/
+  / / / / /_/ / / /   / /   \__ \ 
+ / /_/ / _, _/ / /___/ /______/ / 
+/_____/_/ |_/_/_____/_____/____/  
+                                  
+
+[DRiLLS 2024-07-17 12:04:12] Starting to train the agent ..
+[DRiLLS 2024-07-17 12:04:12] Episode: 1
+name 'data' is not defined
+Traceback (most recent call last):
+  File "drills.py", line 69, in <module>
+    total_reward = learner.train_episode()
+  File "/Users/evan/Documents/Drills/DRiLLS/drills/model.py", line 125, in train_episode
+    self.normalizer.observe(state)
+  File "/Users/evan/Documents/Drills/DRiLLS/drills/model.py", line 32, in observe
+    x = torch.tensor(x, dtype=torch.float32)
+TypeError: must be real number, not NoneType
